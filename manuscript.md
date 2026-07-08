@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:14:31+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:14:31+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:15:12+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:15:12+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/bc5b911f07ff452a0d72950920bef0c7ea0d118c/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/bc5b911f07ff452a0d72950920bef0c7ea0d118c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/bc5b911f07ff452a0d72950920bef0c7ea0d118c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/bc5b911f07ff452a0d72950920bef0c7ea0d118c/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@afb7a57](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/afb7a57622199edb1f53cbe46f75c0d05a8dbd31)
+from [laurentperrinet/2026-07_intelligence-regard@bc5b911](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/bc5b911f07ff452a0d72950920bef0c7ea0d118c)
 on July 8, 2026.
 </em></small>
 
@@ -110,94 +110,13 @@ Et si l’on vous révélait que le monde visuel que vous percevez en ce moment 
 
 La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules, notamment des neurones, tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti, en quelques millisecondes, en un signal nerveuses que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent une organisation dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches du champ visuel.
 
-**Bold** __text__
+# La rétine, un miroir déformant
+La rétinotopie humaine présente la particularité d’accorder une importance disproportionnée à la région entourant le point de fixation de l’œil (ce point précis de l’espace visuel que vous fixez en ce moment même sur ces mots, puis se déplace vers le prochain), appelée la fovéa. Pour se donner une idée quantitative, la macula, qui entoure la fovéa, correspond dans l’espace visuel à un disque d’environ 5 degrés d’angle visuel — soit la taille de votre paume à bout de bras. Si l’on compare ces 5 degrés aux 180 degrés d’angle visuel en azimut et aux 120 degrés en élévation, on réalise qu’elle n’occupe que 3 millièmes de la surface totale. Pourtant, la rétinotopie humaine est telle qu’environ un quart des fibres du nerf optique proviennent de ce minuscule disque. Cette disproportion est cruciale pour comprendre la vision : les photorécepteurs de la macula sont principalement des cônes, sensibles à la couleur, tandis que le reste de la rétine est majoritairement composé de bâtonnets, sensibles aux faibles intensités lumineuses. Ainsi, la majeure partie de notre champ visuel est en réalité très largement aveugle aux couleurs, alors que notre perception des couleurs reste uniforme notamment en périphérie.
 
-[Semi-bold text]{.semibold}
+# Et la rétine chez d'autres espèces?
+Cette organisation rétinotopique fovéée est présente chez de nombreuses espèces animales, notamment chezfovéasammifères. Pourtant, on observe une grande diversité entre les espèces. Chez le chat, par exemple, la densité des photorécepteurs est ainsi plus allongée sur l’axe horizontal, alors qu’elle est quasi uniforme chez le lapin ou la souris. Chaque espèce perçoit donc le monde de manière adaptée à sa niche écologique. Par exemple, certaines espèces comme les faucons ou certains dauphins possèdent même deux paires de fovéas : l’une dédiée à la navigation dans l’axe du mouvement, l’autre à la vision latérale.
 
-[Centered text]{.center}
 
-[Right-aligned text]{.right}
-
-*Italic* _text_
-
-Combined *italics and __bold__*
-
-~~Strikethrough~~
-
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
-
-- List item
-- List item
-- List item
-
-subscript: H~2~O is a liquid
-
-superscript: 2^10^ is 1024.
-
-[unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
-
-[unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
-
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
-
-Line break without starting a new paragraph by putting  
-two spaces at end of line.
-
-## Document organization
-
-Document section headings:
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-### A heading centered on its own printed page{.center .page_center}
-
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
-
-Horizontal rule:
-
----
-
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
-
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
-
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
-
-## Links
-
-Bare URL link: <https://manubot.org>
-
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
-
-[Link with text](https://manubot.org)
-
-[Link with hover text](https://manubot.org "Manubot Homepage")
-
-[Link by reference][manubot homepage]
-
-[Manubot Homepage]: https://manubot.org
 
 ## Citations
 
