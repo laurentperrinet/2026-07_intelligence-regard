@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:10:56+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:10:56+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:14:31+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:14:31+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/afb7a57622199edb1f53cbe46f75c0d05a8dbd31/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@7da1b16](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/7da1b16bab82d913a179b65f1e2b52382f428d5b)
+from [laurentperrinet/2026-07_intelligence-regard@afb7a57](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/afb7a57622199edb1f53cbe46f75c0d05a8dbd31)
 on July 8, 2026.
 </em></small>
 
@@ -105,7 +105,10 @@ Et si l’on vous révélait que le monde visuel que vous percevez en ce moment 
 
  à faire « sens de nos sens ».
 
-## Basic formatting
+
+# La rétine, organe sensible de la vision
+
+La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules, notamment des neurones, tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti, en quelques millisecondes, en un signal nerveuses que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent une organisation dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches du champ visuel.
 
 **Bold** __text__
 
