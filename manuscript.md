@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:22:22+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:22:22+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:23:22+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:23:22+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/910c837ce99b9bd92e261962a4273d3ad1494a95/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/910c837ce99b9bd92e261962a4273d3ad1494a95/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/910c837ce99b9bd92e261962a4273d3ad1494a95/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4a255c1cd66c2447d4f8a5128b3ade8875905d53/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4a255c1cd66c2447d4f8a5128b3ade8875905d53/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4a255c1cd66c2447d4f8a5128b3ade8875905d53/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/910c837ce99b9bd92e261962a4273d3ad1494a95/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4a255c1cd66c2447d4f8a5128b3ade8875905d53/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@910c837](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/910c837ce99b9bd92e261962a4273d3ad1494a95)
+from [laurentperrinet/2026-07_intelligence-regard@4a255c1](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/4a255c1cd66c2447d4f8a5128b3ade8875905d53)
 on July 8, 2026.
 </em></small>
 
@@ -129,7 +129,7 @@ Mais les pathologies rétiniennes n'affectent pas seulement la perception visuel
 
 Afin de mieux comprendre le rôle de la rétinotopie dans la vision, un outil essentiel est la modélisation. C'est en construisant de toute pièce un système visuel reproduisant les caractéristiques humaines que l'on peut alors manipuler certaines pièces de l'assemblage pour comprendre leur rôle dans la mécanique globale. C'est ce que nous avons fait en utilisant un modèle existant appelé convNext, qui est ce qui se fait de mieux actuellement en vision par ordinateur et intelligence artificielle pour identifier des classes (par exemple "labrador" ou "clavier") dans des images arbitraires. Et nous avons testé ses capacités en lui présentant soit les images classiques, soit des images transformées par la rétinotopie humaine. De façon surprenante, le réseau reste efficace et mieux il démontre de nouvelles capacités, comme celle de découvrir un animal camouflé dans une scène visuelle.
 
-
+Cette nouvelle capacité de notre modèle à localiser des objets visuels constitue une porte ouverte à de nouveaux progrès aussi bien en IA qu'en neurosciences. En effet, l'utilisation de capteurs visuels et caméras, de puis chaque téléphone intelligent aux toitures connectées, suit une croissance exponentielle, et chacun de ces capteurs requière des traitement de plus en plus complexes.. Ceci démultiplie les couts énergétiques, ce qui rend critique le besoin de gérer ces contraintes. En utilisant en priorité les pixels autour d'une région d'intéret, on peut ainsi diviser les coûts de traitements d'un facteur. De plus ces systèmes peuvent permettre de répondre plus rapidement ce qui est crucial par exemple dans la nouvelle génération de voitures.
 
 ## References {.page_break_before}
 
