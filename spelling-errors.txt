@@ -3,8 +3,8 @@ actuels
 adaptée
 affecte
 affecter
-afin
-Ainsi
+Afin
+ainsi
 aire
 Aix
 allongée
@@ -51,11 +51,11 @@ certaines
 certains
 cerveau
 ces
-C’est
+c’est
 cet
 cette
 chacun
-Chaque
+chaque
 chercheur
 chez
 classiques
@@ -130,7 +130,7 @@ d’environ
 déplace
 déplacer
 depuis
-des
+Des
 dessus
 détecter
 détecteurs
@@ -277,7 +277,7 @@ lui
 lumière
 lumineuses
 lumineux
-l’une
+L’une
 macula
 maculaire
 magnifique
@@ -316,7 +316,7 @@ n’affectent
 n’avons
 n’est
 neurones
-neurosciences
+Neurosciences
 n’occupe
 nombre
 nombreuses
@@ -376,7 +376,7 @@ plutôt
 porte
 possèdent
 pourquoi
-pourtant
+Pourtant
 pouvoir
 practicien
 précis

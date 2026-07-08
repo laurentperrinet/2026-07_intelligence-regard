@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:50:41+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:50:41+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:51:36+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:51:36+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/28c6beb6851affef2b16090cc1688ae63e173db7/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/28c6beb6851affef2b16090cc1688ae63e173db7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/28c6beb6851affef2b16090cc1688ae63e173db7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/56023788dee9545511d1a7f65f74e132ecf56449/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/56023788dee9545511d1a7f65f74e132ecf56449/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/56023788dee9545511d1a7f65f74e132ecf56449/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/28c6beb6851affef2b16090cc1688ae63e173db7/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/56023788dee9545511d1a7f65f74e132ecf56449/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@28c6beb](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/28c6beb6851affef2b16090cc1688ae63e173db7)
+from [laurentperrinet/2026-07_intelligence-regard@5602378](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/56023788dee9545511d1a7f65f74e132ecf56449)
 on July 8, 2026.
 </em></small>
 
