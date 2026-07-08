@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:16:14+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:16:14+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:17:23+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:17:23+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d3da92b6ee1a87174391bee194c6c55d60633b35/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d3da92b6ee1a87174391bee194c6c55d60633b35/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d3da92b6ee1a87174391bee194c6c55d60633b35/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d3da92b6ee1a87174391bee194c6c55d60633b35/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@d3da92b](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/d3da92b6ee1a87174391bee194c6c55d60633b35)
+from [laurentperrinet/2026-07_intelligence-regard@160adff](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/160adffc9018f3cd70cd0f734082d0ba3af4cf05)
 on July 8, 2026.
 </em></small>
 
@@ -119,7 +119,9 @@ Cette organisation rétinotopique fovéée est présente chez de nombreuses esp�
 
 # Un enjeu clinique crucial
 
-En quoi est‑il utile d’étudier la géométrie de la rétine ? Tout d’abord car cet aspect de la vision humaine est essentiel pour comprendre les nombreuses pathologies qui peuvent affecter notre vision. L’une de ces pathologies est la dégénérescence maculaire liée à l’âge (DMLA), qui touche surtout la macula que nous avons décrite ci‑dessus. Avec le vieillissement de la population, la DMLA est devenue la première cause de malvoyance chez les personnes de plus de 50 ans. Avec l’importance de la macula que nous soulignée, on comprend mieux pourquoi l’effet de cette maladie est particulièrement délétère : elle invisibilise tout objet placé au centre de notre regard (par exemple visages ou lettres), perturbant ainsi durablement la vie quotidienne.  Avec le Dr Kevin Mairot de l’AP‑HM, nous utilisons des outils d’intelligence artificielle pour détecter les formes rares de DMLA, avec une efficacité souvent supérieure à celle des spécialistes. Mais l’objectif n’est pas de remplacer l’expert humain, seulement de l’aider dans son diagnostic.
+En quoi est‑il utile d’étudier la géométrie de la rétine ? Tout d’abord car cet aspect de la vision humaine est essentiel pour comprendre les nombreuses pathologies qui peuvent affecter notre vision. L’une de ces pathologies est la dégénérescence maculaire liée à l’âge (DMLA), qui touche surtout la macula que nous avons décrite ci‑dessus. Avec le vieillissement de la population, la DMLA est devenue la première cause de malvoyance chez les personnes de plus de 50 ans. Avec l’importance de la macula que nous soulignée, on comprend mieux pourquoi l’effet de cette maladie est particulièrement délétère : elle invisibilise tout objet placé au centre de notre regard (par exemple visages ou lettres), perturbant ainsi durablement la vie quotidienne.  Avec le Dr Kevin Mairot de l’AP‑HM, nous utilisons des outils d’intelligence artificielle pour détecter les formes rares de DMLA, avec une efficacité souvent supérieure à celle des spécialistes. Mais l’objectif n’est pas de remplacer l’expert humain, plutôt de l’aider dans son diagnostic en complément de l'ensemble des connaissances sur le patient.
+
+Un riche inventaire d’autres pathologies visuelles existe : elles sont diverses et souvent méconnues, ce qui peut provoquer une errance médicale et retarder leur prise en charge. Par exemple, une forme de la maladie d’Alzheimer peut impacter spécifiquement les voies visuelles, depuis la rétine jusqu’au cortex occipito‑pariétal, qui est essentiel à la perception visuelle. Une conséquence peut alors être une altération de la reconnaissance des visages et de leurs émotions, ce qui nuit gravement à la vie sociale. Une forme de cette pathologie affecte notamment le champ périphérique ; notre vision du monde se rétrécit alors autour du centre de notre regard, créant ce que l’on appelle un « effet tunnel ». Le docteur Lejla Koric, à l’AP‑HM, conduit des études novatrices pour diagnostiquer, à partir de réponses comportementales visuelles, de façon précoce ces formes de la maladie d’Alzheimer, afin de les traiter mieux et plus tôt.
 
 ## References {.page_break_before}
 
