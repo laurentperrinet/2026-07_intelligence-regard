@@ -1,14 +1,13 @@
 ---
-title: Manuscript Title
+title: L'intelligence du regard
 keywords:
-- markdown
-- publishing
-- manubot
-lang: en-US
+- Perception visuelle
+- Anatomie
+- Modélisation neurale
+lang: fr-FR
 date-meta: '2026-07-08'
 author-meta:
-- John Doe
-- Jane Roe
+- Laurent U Perrinet
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +15,33 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="L&#39;intelligence du regard" />
+  <meta name="citation_title" content="L&#39;intelligence du regard" />
+  <meta property="og:title" content="L&#39;intelligence du regard" />
+  <meta property="twitter:title" content="L&#39;intelligence du regard" />
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T07:53:39+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T07:53:39+00:00" />
-  <meta name="dc.language" content="en-US" />
-  <meta name="citation_language" content="en-US" />
+  <meta name="dc.modified" content="2026-07-08T08:10:56+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:10:56+00:00" />
+  <meta name="dc.language" content="fr-FR" />
+  <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Laurent U Perrinet" />
+  <meta name="citation_author_institution" content="Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université" />
+  <meta name="citation_author_orcid" content="0000-0002-9536-010X" />
   <link rel="canonical" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta property="og:url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta property="twitter:url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f44f9bbe35441a8acd51a5898e6e739acaf54c1c/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f44f9bbe35441a8acd51a5898e6e739acaf54c1c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f44f9bbe35441a8acd51a5898e6e739acaf54c1c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f44f9bbe35441a8acd51a5898e6e739acaf54c1c/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7da1b16bab82d913a179b65f1e2b52382f428d5b/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@f44f9bb](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/f44f9bbe35441a8acd51a5898e6e739acaf54c1c)
+from [laurentperrinet/2026-07_intelligence-regard@7da1b16](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/7da1b16bab82d913a179b65f1e2b52382f428d5b)
 on July 8, 2026.
 </em></small>
 
@@ -81,39 +75,22 @@ on July 8, 2026.
 
 
 
-+ **John Doe**
++ **Laurent U Perrinet**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [laurentperrinet](https://github.com/laurentperrinet)
     · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
-    <br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/laurentperrinet/2026-07_intelligence-regard/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
@@ -123,11 +100,10 @@ Jane Roe \<jane.roe@whatever.edu\>.
 
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+Et si l’on vous révélait que le monde visuel que vous percevez en ce moment même est une reconstruction déformée de la réalité ? Pur non-sens ! Intuitivement, nous pensons que notre perception de l’environnement lumineux qui nous entoure est fidèlement calquée sur nos sensations. Pourtant, l’image qui se forme sur la rétine, l’organe sensible de la vision, présente une géométrie précisément distordue. Étudier cette propriété fondamentale de la vision est essentiel : cela permet de mieux la comprendre, de développer des moyens de soigner les pathologies visuelles, ou encore d’exploiter ces principes biologiques pour concevoir des systèmes d’intelligence artificielle plus robustes et moins énergivores. Je suis chercheur en neurosciences computationnelles, et m’attache à décrypter la manière dont le cerveau assemble les fragments d’information pour effectuer des « calculs » — comme, par exemple, la capacité à percevoir ce texte que vous lisez. Je vais vous exposer ici les découvertes récentes sur la façon dont la géométrie de la rétine façonne notre perception visuelle.
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+
+ à faire « sens de nos sens ».
 
 ## Basic formatting
 
