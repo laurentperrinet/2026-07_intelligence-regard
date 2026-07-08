@@ -4,7 +4,7 @@ adaptée
 affecte
 affecter
 Afin
-ainsi
+Ainsi
 aire
 Aix
 allongée
@@ -21,7 +21,7 @@ aurait
 aussi
 autour
 autres
-avec
+Avec
 aveugle
 avoir
 avons
@@ -55,9 +55,9 @@ c’est
 cet
 cette
 chacun
-chaque
+Chaque
 chercheur
-chez
+Chez
 classiques
 clinique
 CNRS
@@ -130,7 +130,7 @@ d’environ
 déplace
 déplacer
 depuis
-Des
+des
 dessus
 détecter
 détecteurs
@@ -316,7 +316,7 @@ n’affectent
 n’avons
 n’est
 neurones
-Neurosciences
+neurosciences
 n’occupe
 nombre
 nombreuses
@@ -407,6 +407,7 @@ qu’elle
 quelques
 qu’en
 qu’environ
+qu’est
 qui
 qu’il
 quoi
@@ -483,8 +484,9 @@ traitements
 traiter
 transforme
 transformées
+travers
 très
-une
+Une
 uniforme
 Université
 uns

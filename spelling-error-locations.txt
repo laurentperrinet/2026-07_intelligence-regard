@@ -913,6 +913,7 @@ content/10.content.md:33:géométrie
 content/10.content.md:33:lumière
 content/10.content.md:33:lumière
 content/10.content.md:33:magnifique
+content/10.content.md:33:magnifique
 content/10.content.md:33:mais
 content/10.content.md:33:mettant
 content/10.content.md:33:mettant
@@ -934,9 +935,11 @@ content/10.content.md:33:pouvoir
 content/10.content.md:33:processus
 content/10.content.md:33:progressé
 content/10.content.md:33:provoqué
+content/10.content.md:33:qu'est
 content/10.content.md:33:reste
 content/10.content.md:33:rétinotopie
 content/10.content.md:33:seulement
 content/10.content.md:33:sur
+content/10.content.md:33:travers
 content/10.content.md:33:une
 content/10.content.md:33:visuel
