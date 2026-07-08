@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:17:23+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:17:23+00:00" />
+  <meta name="dc.modified" content="2026-07-08T08:18:31+00:00" />
+  <meta property="article:modified_time" content="2026-07-08T08:18:31+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/93f056a4ff2205ffb981e6a9c3aaff4f8d69c092/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/93f056a4ff2205ffb981e6a9c3aaff4f8d69c092/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/93f056a4ff2205ffb981e6a9c3aaff4f8d69c092/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/160adffc9018f3cd70cd0f734082d0ba3af4cf05/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/93f056a4ff2205ffb981e6a9c3aaff4f8d69c092/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@160adff](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/160adffc9018f3cd70cd0f734082d0ba3af4cf05)
+from [laurentperrinet/2026-07_intelligence-regard@93f056a](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/93f056a4ff2205ffb981e6a9c3aaff4f8d69c092)
 on July 8, 2026.
 </em></small>
 
@@ -110,10 +110,10 @@ Et si l’on vous révélait que le monde visuel que vous percevez en ce moment 
 
 La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules, notamment des neurones, tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti, en quelques millisecondes, en un signal nerveuses que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent une organisation dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches du champ visuel.
 
-# La rétine, un miroir déformant
+## La rétine, un miroir déformant
 La rétinotopie humaine présente la particularité d’accorder une importance disproportionnée à la région entourant le point de fixation de l’œil (ce point précis de l’espace visuel que vous fixez en ce moment même sur ces mots, puis se déplace vers le prochain), appelée la fovéa. Pour se donner une idée quantitative, la macula, qui entoure la fovéa, correspond dans l’espace visuel à un disque d’environ 5 degrés d’angle visuel — soit la taille de votre paume à bout de bras. Si l’on compare ces 5 degrés aux 180 degrés d’angle visuel en azimut et aux 120 degrés en élévation, on réalise qu’elle n’occupe que 3 millièmes de la surface totale. Pourtant, la rétinotopie humaine est telle qu’environ un quart des fibres du nerf optique proviennent de ce minuscule disque. Cette disproportion est cruciale pour comprendre la vision : les photorécepteurs de la macula sont principalement des cônes, sensibles à la couleur, tandis que le reste de la rétine est majoritairement composé de bâtonnets, sensibles aux faibles intensités lumineuses. Ainsi, la majeure partie de notre champ visuel est en réalité très largement aveugle aux couleurs, alors que notre perception des couleurs reste uniforme notamment en périphérie.
 
-# Et la rétine chez d'autres espèces?
+## Et la rétine chez d'autres espèces?
 Cette organisation rétinotopique fovéée est présente chez de nombreuses espèces animales, notamment chezfovéasammifères. Pourtant, on observe une grande diversité entre les espèces. Chez le chat, par exemple, la densité des photorécepteurs est ainsi plus allongée sur l’axe horizontal, alors qu’elle est quasi uniforme chez le lapin ou la souris. Chaque espèce perçoit donc le monde de manière adaptée à sa niche écologique. Par exemple, certaines espèces comme les faucons ou certains dauphins possèdent même deux paires de fovéas : l’une dédiée à la navigation dans l’axe du mouvement, l’autre à la vision latérale.
 
 
@@ -122,6 +122,8 @@ Cette organisation rétinotopique fovéée est présente chez de nombreuses esp�
 En quoi est‑il utile d’étudier la géométrie de la rétine ? Tout d’abord car cet aspect de la vision humaine est essentiel pour comprendre les nombreuses pathologies qui peuvent affecter notre vision. L’une de ces pathologies est la dégénérescence maculaire liée à l’âge (DMLA), qui touche surtout la macula que nous avons décrite ci‑dessus. Avec le vieillissement de la population, la DMLA est devenue la première cause de malvoyance chez les personnes de plus de 50 ans. Avec l’importance de la macula que nous soulignée, on comprend mieux pourquoi l’effet de cette maladie est particulièrement délétère : elle invisibilise tout objet placé au centre de notre regard (par exemple visages ou lettres), perturbant ainsi durablement la vie quotidienne.  Avec le Dr Kevin Mairot de l’AP‑HM, nous utilisons des outils d’intelligence artificielle pour détecter les formes rares de DMLA, avec une efficacité souvent supérieure à celle des spécialistes. Mais l’objectif n’est pas de remplacer l’expert humain, plutôt de l’aider dans son diagnostic en complément de l'ensemble des connaissances sur le patient.
 
 Un riche inventaire d’autres pathologies visuelles existe : elles sont diverses et souvent méconnues, ce qui peut provoquer une errance médicale et retarder leur prise en charge. Par exemple, une forme de la maladie d’Alzheimer peut impacter spécifiquement les voies visuelles, depuis la rétine jusqu’au cortex occipito‑pariétal, qui est essentiel à la perception visuelle. Une conséquence peut alors être une altération de la reconnaissance des visages et de leurs émotions, ce qui nuit gravement à la vie sociale. Une forme de cette pathologie affecte notamment le champ périphérique ; notre vision du monde se rétrécit alors autour du centre de notre regard, créant ce que l’on appelle un « effet tunnel ». Le docteur Lejla Koric, à l’AP‑HM, conduit des études novatrices pour diagnostiquer, à partir de réponses comportementales visuelles, de façon précoce ces formes de la maladie d’Alzheimer, afin de les traiter mieux et plus tôt.
+
+Mais les pathologies rétiniennes n'affectent pas seulement la perception visuelle mais peuvent aussi avoir des conséquences délétères sur notre contrôle du mouvement des yeux. En effet nous avons vu que la rétinotopie humaine concentre de grandes resources à la macula, qui justement est controlée par la position du regard. La dégénérescence de cette zone du champ visuel peut fortement perturber le contrôle du regard, générant des saccades involontaires ou un gain réduit pour suivre des objets en mouvement. Ceci peut induire une difficulté à lire ou à reconnaitre des visages, avec des impacts sociaux fort. Des solutions thérapeutiques innovantes sont proposées, par exemple en utilisant des casques de réalité virtuelle couplés avec des détecteurs de la position du regard qui permettent de favoris une rééducation du contrôle du regard. [Castet & Calabrese]
 
 ## References {.page_break_before}
 
