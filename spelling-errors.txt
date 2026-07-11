@@ -6,12 +6,12 @@ affecter
 Afin
 Ainsi
 aire
+ait
 Aix
 allongée
 alors
 altération
 animales
-appelé
 appelée
 appelle
 approche
@@ -21,7 +21,7 @@ aurait
 aussi
 autour
 autres
-avec
+Avec
 aveugle
 avoir
 avons
@@ -33,7 +33,6 @@ biologiques
 Calabrese
 calculs
 calquée
-caméras
 camouflé
 capacité
 capacités
@@ -53,9 +52,9 @@ cerveau
 ces
 c’est
 cet
-Cette
+cette
 chacun
-chaque
+Chaque
 chercheur
 Chez
 classiques
@@ -84,12 +83,13 @@ conséquence
 conséquences
 conséquent
 conservent
+consommation
 constitue
 construire
 construisant
 continuement
-contraintes
 contraire
+contrepartie
 controlé
 contrôle
 converti
@@ -97,7 +97,6 @@ convNext
 couleur
 couleurs
 couplés
-couts
 coûts
 créant
 crise
@@ -170,7 +169,7 @@ efficacément
 efficacité
 électrochimique
 élévation
-Elle
+elle
 elles
 émotions
 énergétiques
@@ -189,7 +188,6 @@ essentiel
 Étudier
 évidence
 exemple
-existant
 existe
 expérience
 exploitée
@@ -205,7 +203,7 @@ fait
 faucons
 fidèlement
 fixez
-floue
+floues
 fondamentale
 forme
 formes
@@ -232,6 +230,7 @@ induire
 ineficcace
 innovantes
 Institut
+intelligents
 intensités
 intéret
 interpréter
@@ -260,7 +259,6 @@ l’espace
 lettres
 leur
 leurs
-l’expace
 l’humain
 liberté
 liée
@@ -281,6 +279,7 @@ lumière
 lumineuses
 lumineux
 L’une
+l’utilisation
 macula
 maculaire
 Mairot
@@ -320,10 +319,9 @@ n’est
 neurones
 neurosciences
 n’occupe
-nombre
 nombreuses
 nombreux
-notamment
+Notamment
 Notre
 nouveau
 nouveaux
@@ -336,6 +334,7 @@ objet
 objets
 occipito
 oculaire
+oculomoteur
 optique
 ordinateur
 organe
@@ -363,6 +362,7 @@ permet
 permettent
 permettre
 Perrinet
+persepcttive
 personnels
 personnes
 perturbant
@@ -370,7 +370,6 @@ perturber
 peut
 peuvent
 photorécepteurs
-pièce
 pièces
 placé
 plutôt
@@ -469,7 +468,7 @@ systèmes
 taille
 tandis
 tapissant
-téléphone
+téléphones
 telle
 testé
 texte
@@ -478,8 +477,8 @@ Timone
 topographique
 tôt
 totale
-toute
 Toutefois
+toutes
 traitement
 traitements
 traiter
