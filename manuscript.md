@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-08T08:54:32+00:00" />
-  <meta property="article:modified_time" content="2026-07-08T08:54:32+00:00" />
+  <meta name="dc.modified" content="2026-07-11T10:06:44+00:00" />
+  <meta property="article:modified_time" content="2026-07-11T10:06:44+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e1c3771cc02caadda305bede33ec5a8633b97018/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e1c3771cc02caadda305bede33ec5a8633b97018/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e1c3771cc02caadda305bede33ec5a8633b97018/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e55dd9f9a0c583770be76e5b416cd61b3628d278/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e55dd9f9a0c583770be76e5b416cd61b3628d278/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e55dd9f9a0c583770be76e5b416cd61b3628d278/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,12 +63,13 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e1c3771cc02caadda305bede33ec5a8633b97018/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e55dd9f9a0c583770be76e5b416cd61b3628d278/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@e1c3771](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/e1c3771cc02caadda305bede33ec5a8633b97018)
-on July 8, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@e55dd9f](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/e55dd9f9a0c583770be76e5b416cd61b3628d278)
+on July 11, 2026.
 </em></small>
 
+Published: July 8, 2026
 
 
 ## Authors
@@ -132,7 +133,7 @@ De façon complémentaire, cette voie de recherche soulève un nouvel axe de rec
 
 # Conclusion
 
-Pour conclure, en mettant en lumière que la géométrie de notre sensation est différente que celle de notre percpetion, en mettant en lumière ce miroir déformant de notre vision, nous n'avons pas provoqué une crise dans notre compréhension de la vision mais nous avons au contraire progressé dans la connaissance de ces processus. Notamment, cette rétinotopie fovéée n'est efficace seulement avec la capacité de pouvoir explorer notre monde visuel avec notre regard. Il reste par conséquent encore de nombreux aspects à découvrir sur ce magnifique outil qu'est la vision à travers la magnifique intelligence du regard.
+Pour conclure, en mettant en lumière que la géométrie de l'oeil, l'organe sensible de la vision, est différente que celle de notre perception, en révélant ce miroir déformant de notre vision, nous n'avons pas provoqué une crise dans notre compréhension de la vision mais nous avons au contraire progressé dans la connaissance de ce système complexe. Notamment, nous avons mis en évidence que cette rétinotopie fovéée n'est efficace qu'avec la capacité de pouvoir explorer notre monde visuel avec notre regard. Il reste par conséquent encore de nombreux aspects à découvrir sur l'intelligence intime entre vision et regard.
 
 ## References {.page_break_before}
 

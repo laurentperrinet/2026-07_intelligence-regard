@@ -21,7 +21,7 @@ aurait
 aussi
 autour
 autres
-Avec
+avec
 aveugle
 avoir
 avons
@@ -53,9 +53,9 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 chacun
-Chaque
+chaque
 chercheur
 Chez
 classiques
@@ -64,6 +64,7 @@ CNRS
 comme
 complément
 complémentaire
+complexe
 complexité
 comportementales
 composé
@@ -169,7 +170,7 @@ efficacément
 efficacité
 électrochimique
 élévation
-elle
+Elle
 elles
 émotions
 énergétiques
@@ -265,9 +266,11 @@ liberté
 liée
 l’image
 l’importance
+l’intelligence
 lisez
 L’objectif
 localiser
+l’oeil
 l’œil
 l’on
 l’optique
@@ -280,7 +283,6 @@ lumineux
 L’une
 macula
 maculaire
-magnifique
 Mairot
 mais
 majeure
@@ -355,7 +357,6 @@ pensons
 percevez
 percevoir
 perçoit
-percpetion
 périphérie
 périphérique
 permet
@@ -389,7 +390,6 @@ primaires
 principalement
 principes
 priorité
-processus
 prochain
 proches
 produite
@@ -402,12 +402,12 @@ provoqué
 provoquer
 proximité
 Pur
+qu’avec
 quel
 qu’elle
 quelques
 qu’en
 qu’environ
-qu’est
 qui
 qu’il
 quoi
@@ -433,6 +433,7 @@ rétinotopie
 rétinotopique
 rétrécit
 révélait
+révélant
 révélé
 révèle
 riche
@@ -484,9 +485,8 @@ traitements
 traiter
 transforme
 transformées
-travers
 très
-Une
+une
 uniforme
 Université
 uns
