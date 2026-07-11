@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-11T10:17:13+00:00" />
-  <meta property="article:modified_time" content="2026-07-11T10:17:13+00:00" />
+  <meta name="dc.modified" content="2026-07-11T10:17:32+00:00" />
+  <meta property="article:modified_time" content="2026-07-11T10:17:32+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7fe92f3abc2e674b142bebc3ad7c960660738745/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7fe92f3abc2e674b142bebc3ad7c960660738745/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7fe92f3abc2e674b142bebc3ad7c960660738745/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/cd247c4948df4765d3e2590831a323a55b6532a7/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/cd247c4948df4765d3e2590831a323a55b6532a7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/cd247c4948df4765d3e2590831a323a55b6532a7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7fe92f3abc2e674b142bebc3ad7c960660738745/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/cd247c4948df4765d3e2590831a323a55b6532a7/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@7fe92f3](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/7fe92f3abc2e674b142bebc3ad7c960660738745)
+from [laurentperrinet/2026-07_intelligence-regard@cd247c4](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/cd247c4948df4765d3e2590831a323a55b6532a7)
 on July 11, 2026.
 </em></small>
 
@@ -117,11 +117,11 @@ Cette organisation rétinotopique fovéée est présente chez de nombreuses esp�
 
 # Un enjeu clinique crucial
 
-En quoi est‑il utile d’étudier la géométrie de la rétine ? Tout d’abord car cet aspect de la vision humaine est essentiel pour comprendre les nombreuses pathologies qui peuvent affecter notre vision. L’une de ces pathologies est la dégénérescence maculaire liée à l’âge (DMLA), qui touche surtout la macula que nous avons décrite ci‑dessus. Avec le vieillissement de la population, la DMLA est devenue la première cause de malvoyance chez les personnes de plus de 50 ans. Avec l’importance de la macula que nous soulignée, on comprend mieux pourquoi l’effet de cette maladie est particulièrement délétère : elle invisibilise tout objet placé au centre de notre regard (par exemple visages ou lettres), perturbant ainsi fortement et durablement la vie quotidienne.  Avec le Dr Kevin Mairot de l’AP‑HM, nous utilisons des outils d’intelligence artificielle pour détecter des formes rares de DMLA, avec une efficacité souvent supérieure à celle des spécialistes. L’objectif n’est bien sûr pas de remplacer le practicien, mais plutôt de l’aider dans son diagnostic en complément de l'ensemble des connaissances sur le patient.
+En quoi est‑il utile d’étudier la géométrie de la rétine ? Tout d’abord, cet aspect de la vision humaine est essentiel pour comprendre les nombreuses pathologies qui peuvent affecter notre vision. L’une de ces pathologies est la dégénérescence maculaire liée à l’âge (DMLA), qui affecte gravement la macula que nous avons décrite ci‑dessus. Avec le vieillissement de la population, la DMLA est devenue la première cause de malvoyance chez les personnes de plus de 50 ans. Avec l’importance de la macula que nous avons soulignée, on comprend mieux pourquoi l’effet de cette maladie est particulièrement délétère : elle invisibilise tout objet placé au centre de notre regard (par exemple visages ou lettres), perturbant ainsi fortement et durablement la vie quotidienne.  Avec le Dr Kevin Mairot de l’AP‑HM, nous utilisons les nouveaux outils d’intelligence artificielle pour détecter des formes rares de DMLA, avec une efficacité souvent supérieure à celle des spécialistes. L’objectif n’est bien sûr pas de remplacer le practicien, mais plutôt de l’aider dans son diagnostic en complément de l'ensemble des connaissances sur le patient.
 
 Un riche inventaire d’autres pathologies visuelles existe : elles sont diverses et souvent méconnues, ce qui peut provoquer une errance médicale et retarder leur prise en charge. Par exemple, une forme de la maladie d’Alzheimer peut impacter spécifiquement les voies visuelles, depuis la rétine jusqu’au cortex occipito‑pariétal qui concentre les aires visuelle primaires et qui est essentiel à la perception visuelle. Une conséquence peut alors être une altération de la reconnaissance des visages et de leurs émotions, ce qui nuit gravement à la vie sociale. Une forme de cette pathologie affecte notamment le champ périphérique ; notre vision du monde se rétrécit alors autour du centre de notre regard, créant ce que l’on appelle un « effet tunnel ». Le docteur Lejla Koric, à l’AP‑HM, conduit des études novatrices pour diagnostiquer, à partir de réponses comportementales visuelles, de façon précoce ces formes de la maladie d’Alzheimer, afin de les traiter mieux et plus tôt.
 
-Ainsi, les pathologies rétiniennes n'affectent pas seulement la perception visuelle mais peuvent aussi avoir des conséquences délétères sur notre contrôle du mouvement des yeux. En effet nous avons vu que la rétinotopie humaine concentre de grandes resources à la macula qui se concentre autour du point de fixation, lui-même controlé par nos mouvements du regard. La dégénérescence de cette zone du champ visuel peut fortement perturber le contrôle de ce mouvement, générant par exemple des saccades involontaires ou contrôle ineficcace du suivi d'objets en mouvement. Ceci peut induire une difficulté à lire ou à reconnaitre des visages, avec des impacts personnels délétères. Des solutions thérapeutiques innovantes sont proposées, par exemple en utilisant des casques de réalité virtuelle couplés avec des détecteurs de la position du regard qui permettent de faciliter une rééducation du contrôle du regard. [Castet & Calabrese]
+Ainsi, les pathologies rétiniennes n'affectent pas seulement la perception visuelle mais peuvent aussi avoir des conséquences délétères sur notre contrôle du mouvement des yeux. En effet nous avons vu que la rétinotopie humaine concentre de grandes resources à la macula qui se concentre autour du point de fixation, lui-même controlé par nos mouvements du regard. La dégénérescence de cette zone du champ visuel peut fortement perturber le contrôle de ce mouvement, générant par exemple des saccades involontaires ou un contrôle ineficcace du suivi d'objets en mouvement. Ceci peut induire une difficulté à lire ou à reconnaitre des visages, avec des impacts personnels délétères. Des solutions thérapeutiques innovantes peuvent être proposées, par exemple en utilisant des casques de réalité virtuelle couplés avec des détecteurs de la position du regard qui permettent de faciliter une rééducation du contrôle du regard. [Castet & Calabrese]
 
 # L'outil de la modélisation
 

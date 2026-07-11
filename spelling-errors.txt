@@ -3,8 +3,8 @@ actuels
 adaptée
 affecte
 affecter
-afin
-ainsi
+Afin
+Ainsi
 aire
 ait
 Aix
@@ -52,7 +52,7 @@ cerveau
 ces
 c’est
 cet
-Cette
+cette
 chacun
 Chaque
 chercheur
@@ -168,7 +168,7 @@ efficacément
 efficacité
 électrochimique
 élévation
-Elle
+elle
 elles
 émotions
 énergétiques
@@ -277,7 +277,7 @@ lui
 lumière
 lumineuses
 lumineux
-L’une
+l’une
 l’utilisation
 macula
 maculaire
@@ -316,11 +316,11 @@ n’affectent
 n’avons
 n’est
 neurones
-neurosciences
+Neurosciences
 n’occupe
 nombreuses
-Notamment
-Notre
+notamment
+notre
 nouveau
 nouveaux
 nouvel
@@ -374,7 +374,7 @@ plutôt
 porte
 possèdent
 pourquoi
-pourtant
+Pourtant
 pouvoir
 practicien
 précis
@@ -460,7 +460,6 @@ supérieure
 sur
 sûr
 surprenante
-surtout
 système
 systèmes
 taille

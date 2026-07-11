@@ -356,6 +356,7 @@ content/10.content.md:12:une
 content/10.content.md:12:uniforme
 content/10.content.md:15:clinique
 content/10.content.md:15:enjeu
+content/10.content.md:17:affecte
 content/10.content.md:17:affecter
 content/10.content.md:17:ainsi
 content/10.content.md:17:artificielle
@@ -363,6 +364,7 @@ content/10.content.md:17:avec
 content/10.content.md:17:Avec
 content/10.content.md:17:Avec
 content/10.content.md:17:Avec
+content/10.content.md:17:avons
 content/10.content.md:17:avons
 content/10.content.md:17:bien
 content/10.content.md:17:celle
@@ -379,7 +381,6 @@ content/10.content.md:17:dans
 content/10.content.md:17:décrite
 content/10.content.md:17:dégénérescence
 content/10.content.md:17:délétère
-content/10.content.md:17:des
 content/10.content.md:17:des
 content/10.content.md:17:des
 content/10.content.md:17:des
@@ -401,6 +402,7 @@ content/10.content.md:17:exemple
 content/10.content.md:17:formes
 content/10.content.md:17:fortement
 content/10.content.md:17:géométrie
+content/10.content.md:17:gravement
 content/10.content.md:17:humaine
 content/10.content.md:17:invisibilise
 content/10.content.md:17:l’âge
@@ -425,6 +427,7 @@ content/10.content.md:17:n’est
 content/10.content.md:17:nombreuses
 content/10.content.md:17:notre
 content/10.content.md:17:notre
+content/10.content.md:17:nouveaux
 content/10.content.md:17:objet
 content/10.content.md:17:ou
 content/10.content.md:17:outils
@@ -451,7 +454,6 @@ content/10.content.md:17:spécialistes
 content/10.content.md:17:supérieure
 content/10.content.md:17:sur
 content/10.content.md:17:sûr
-content/10.content.md:17:surtout
 content/10.content.md:17:une
 content/10.content.md:17:une
 content/10.content.md:17:utile
@@ -587,6 +589,7 @@ content/10.content.md:21:détecteurs
 content/10.content.md:21:difficulté
 content/10.content.md:21:d'objets
 content/10.content.md:21:effet
+content/10.content.md:21:être
 content/10.content.md:21:exemple
 content/10.content.md:21:exemple
 content/10.content.md:21:faciliter
@@ -618,6 +621,7 @@ content/10.content.md:21:perturber
 content/10.content.md:21:peut
 content/10.content.md:21:peut
 content/10.content.md:21:peuvent
+content/10.content.md:21:peuvent
 content/10.content.md:21:proposées
 content/10.content.md:21:qui
 content/10.content.md:21:qui
@@ -628,7 +632,6 @@ content/10.content.md:21:rétiniennes
 content/10.content.md:21:rétinotopie
 content/10.content.md:21:saccades
 content/10.content.md:21:seulement
-content/10.content.md:21:sont
 content/10.content.md:21:suivi
 content/10.content.md:21:sur
 content/10.content.md:21:thérapeutiques
