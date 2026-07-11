@@ -3,8 +3,8 @@ actuels
 adaptée
 affecte
 affecter
-Afin
-Ainsi
+afin
+ainsi
 aire
 ait
 Aix
@@ -21,7 +21,7 @@ aurait
 aussi
 autour
 autres
-Avec
+avec
 aveugle
 avoir
 avons
@@ -52,7 +52,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 chacun
 Chaque
 chercheur
@@ -81,7 +81,6 @@ connaissances
 connectées
 conséquence
 conséquences
-conséquent
 conservent
 consommation
 constitue
@@ -130,7 +129,7 @@ d’environ
 déplace
 déplacer
 depuis
-des
+Des
 dessus
 détecter
 détecteurs
@@ -169,7 +168,7 @@ efficacément
 efficacité
 électrochimique
 élévation
-elle
+Elle
 elles
 émotions
 énergétiques
@@ -320,7 +319,6 @@ neurones
 neurosciences
 n’occupe
 nombreuses
-nombreux
 Notamment
 Notre
 nouveau
@@ -376,7 +374,7 @@ plutôt
 porte
 possèdent
 pourquoi
-Pourtant
+pourtant
 pouvoir
 practicien
 précis
@@ -485,7 +483,7 @@ traiter
 transforme
 transformées
 très
-une
+Une
 uniforme
 Université
 uns
@@ -493,6 +491,7 @@ utile
 utilisant
 utilisons
 vais
+venir
 vers
 vieillissement
 virtuelle
