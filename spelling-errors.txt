@@ -50,9 +50,9 @@ certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-cette
+Cette
 chacun
 Chaque
 chercheur
@@ -137,6 +137,7 @@ d’étudier
 deux
 développer
 devenue
+deviennent
 d’exploiter
 diagnostiquer
 différente
@@ -168,13 +169,12 @@ efficacément
 efficacité
 électrochimique
 élévation
-elle
+Elle
 elles
 émotions
 énergétiques
 énergivores
 enjeu
-entourant
 entoure
 entre
 environnant
@@ -194,7 +194,7 @@ exponentielle
 exposer
 faciliter
 façon
-façonne
+façone
 facteur
 faibles
 faire
@@ -267,7 +267,6 @@ l’intelligence
 lisez
 L’objectif
 localiser
-l’oeil
 l’œil
 l’on
 l’optique
@@ -312,6 +311,7 @@ monde
 mouvement
 mouvements
 moyens
+mystère
 n’affectent
 n’avons
 n’est
@@ -319,8 +319,8 @@ neurones
 Neurosciences
 n’occupe
 nombreuses
-notamment
-notre
+Notamment
+Notre
 nouveau
 nouveaux
 nouvel
@@ -341,7 +341,6 @@ outil
 outils
 ouverte
 paires
-paradoxe
 pariétal
 particularité
 particulièrement
@@ -416,14 +415,17 @@ récentes
 reçoit
 reconnaitre
 rééducation
+regarder
 région
 remplacer
+répartie
 répondre
 réponses
 reproduisant
 requiert
 réseau
 reste
+RETINE
 rétine
 rétiniennes
 rétinotopie
@@ -484,6 +486,7 @@ transformées
 très
 Une
 uniforme
+uniforment
 Université
 uns
 utile
@@ -500,6 +503,7 @@ visuelles
 visuels
 voie
 voies
+voir
 voitures
 votre
 vous
