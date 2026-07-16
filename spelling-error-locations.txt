@@ -1,9 +1,11 @@
 content/10.content.md:1:artificielle
+content/10.content.md:1:avons
 content/10.content.md:1:biologiques
 content/10.content.md:1:calculs
 content/10.content.md:1:calquée
 content/10.content.md:1:capacité
 content/10.content.md:1:cela
+content/10.content.md:1:celle
 content/10.content.md:1:cerveau
 content/10.content.md:1:ces
 content/10.content.md:1:cette
@@ -23,6 +25,7 @@ content/10.content.md:1:développer
 content/10.content.md:1:d’exploiter
 content/10.content.md:1:d’information
 content/10.content.md:1:d’intelligence
+content/10.content.md:1:doit
 content/10.content.md:1:dont
 content/10.content.md:1:dont
 content/10.content.md:1:effectuer
@@ -35,9 +38,9 @@ content/10.content.md:1:exposer
 content/10.content.md:1:façon
 content/10.content.md:1:façone
 content/10.content.md:1:faire
-content/10.content.md:1:fidèlement
 content/10.content.md:1:fondamentale
 content/10.content.md:1:forme
+content/10.content.md:1:géométrie
 content/10.content.md:1:géométrie
 content/10.content.md:1:géométrie
 content/10.content.md:1:ici
@@ -57,13 +60,12 @@ content/10.content.md:1:mieux
 content/10.content.md:1:moins
 content/10.content.md:1:monde
 content/10.content.md:1:moyens
+content/10.content.md:1:nécessairement
 content/10.content.md:1:neurosciences
-content/10.content.md:1:notre
 content/10.content.md:1:notre
 content/10.content.md:1:organe
 content/10.content.md:1:ou
 content/10.content.md:1:pathologies
-content/10.content.md:1:pensons
 content/10.content.md:1:percevez
 content/10.content.md:1:percevoir
 content/10.content.md:1:permet
@@ -219,7 +221,6 @@ content/10.content.md:8:fixez
 content/10.content.md:8:fovéa
 content/10.content.md:8:fovéa
 content/10.content.md:8:grande
-content/10.content.md:8:Hors
 content/10.content.md:8:humaine
 content/10.content.md:8:humaine
 content/10.content.md:8:idée

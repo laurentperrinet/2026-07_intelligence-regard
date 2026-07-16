@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-11T10:23:24+00:00" />
-  <meta property="article:modified_time" content="2026-07-11T10:23:24+00:00" />
+  <meta name="dc.modified" content="2026-07-16T06:50:53+00:00" />
+  <meta property="article:modified_time" content="2026-07-16T06:50:53+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/72a1b57caa603182c743141515eb1db1d5bbd09f/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/72a1b57caa603182c743141515eb1db1d5bbd09f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/72a1b57caa603182c743141515eb1db1d5bbd09f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/72a1b57caa603182c743141515eb1db1d5bbd09f/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@72a1b57](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/72a1b57caa603182c743141515eb1db1d5bbd09f)
-on July 11, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@4b5766d](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/4b5766d8360cfd2b3372d08103a2d570c3eafd00)
+on July 16, 2026.
 </em></small>
 
 Published: July 8, 2026
@@ -101,14 +101,14 @@ Published: July 8, 2026
 
 
 
-Et si l’on vous révélait que le monde visuel que vous percevez en ce moment même est une reconstruction déformée de la réalité ? Pur non-sens ! Intuitivement, nous pensons que notre perception de l’environnement lumineux qui nous entoure est fidèlement calquée sur nos sensations. Pourtant, l’image qui se forme sur la rétine, l’organe sensible de la vision, présente une géométrie précisément déformée. Étudier cette propriété fondamentale de la vision est essentiel : cela permet de mieux la comprendre, de développer des moyens de soigner les pathologies visuelles, ou encore d’exploiter ces principes biologiques pour concevoir des systèmes d’intelligence artificielle plus robustes et moins énergivores, en clair, à faire « sens de nos sens ». Je suis chercheur en neurosciences computationnelles, et m’attache à décrypter la manière dont le cerveau assemble les fragments d’information pour effectuer des « calculs » — comme, par exemple, la capacité à percevoir ce texte que vous lisez. Je vais vous exposer ici les découvertes récentes sur la façon dont la géométrie de la rétine façone notre perception visuelle.
+Et si l’on vous révélait que le monde visuel que vous percevez en ce moment même est une reconstruction déformée de la réalité ? Pur non-sens ! Intuitivement, la géométrie de la perception que nous avons de l’environnement lumineux qui nous entoure doit nécessairement calquée sur celle de nos sensations. Pourtant, l’image qui se forme sur la rétine, l’organe sensible de la vision, présente une géométrie précisément déformée. Étudier cette propriété fondamentale de la vision est essentiel : cela permet de mieux la comprendre, de développer des moyens de soigner les pathologies visuelles, ou encore d’exploiter ces principes biologiques pour concevoir des systèmes d’intelligence artificielle plus robustes et moins énergivores, en clair, à faire « sens de nos sens ». Je suis chercheur en neurosciences computationnelles, et m’attache à décrypter la manière dont le cerveau assemble les fragments d’information pour effectuer des « calculs » — comme, par exemple, la capacité à percevoir ce texte que vous lisez. Je vais vous exposer ici les découvertes récentes sur la façon dont la géométrie de la rétine façone notre perception visuelle.
 
 # La rétine, organe sensible de la vision
 
-La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux et regarder, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti en quelques millisecondes par des neurones en une information que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent cette organisation topographique dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches dans le champ visuel.
+La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux et regarder, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti par des neurones en quelques millisecondes en une information que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent cette organisation topographique dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches dans le champ visuel.
 
 ## La rétine, un miroir déformant
-Notre expérience révèle que notre regard est mobile dans la scène visuelle. Le point de fixation de l’œil, ce point précis de l’espace visuel que vous fixez en ce moment même sur ces mots, se déplace continuement, par exemple vers ce prochain mot. Hors, la rétinotopie humaine présente la particularité d’accorder une importance disproportionnée à la région appelée la fovéa qui entoure ce point de fixation. Pour se donner une idée quantitative, la macula, une zone qui entoure la fovéa, correspond dans l’espace visuel à un disque d’environ 5 degrés d’angle visuel — soit la taille de votre paume à bout de bras. Si l’on compare ces 5 degrés aux 180 degrés d’angle visuel en azimut et aux 120 degrés en élévation, on réalise qu’elle n’occupe que 3 millièmes de la surface totale (voir FIGURE RETINE). Pourtant, la rétinotopie humaine est telle qu’environ un quart des fibres du nerf optique proviennent de ce minuscule disque. Cette disproportion est cruciale pour comprendre la vision : les photorécepteurs de la macula sont principalement des cônes, sensibles à la couleur, tandis que le reste de la rétine est majoritairement composé de bâtonnets, sensibles aux faibles intensités lumineuses. Ceci révèle un mystère : la grande majorité de notre champ visuel est très largement aveugle aux couleurs, et pourtant notre perception des couleurs semble uniforment répartie, les objets ne deviennent pas gris en périphérie !
+Notre expérience révèle que notre regard est mobile dans la scène visuelle. Le point de fixation de l’œil, ce point précis de l’espace visuel que vous fixez en ce moment même sur ces mots, se déplace continuement, par exemple vers ce prochain mot. La rétinotopie humaine présente la particularité d’accorder une importance disproportionnée à la région appelée la fovéa qui entoure ce point de fixation. Pour se donner une idée quantitative, la macula, une zone qui entoure la fovéa, correspond dans l’espace visuel à un disque d’environ 5 degrés d’angle visuel — soit la taille de votre paume à bout de bras. Si l’on compare ces 5 degrés aux 180 degrés d’angle visuel en azimut et aux 120 degrés en élévation, on réalise qu’elle n’occupe que 3 millièmes de la surface totale (voir FIGURE RETINE). Pourtant, la rétinotopie humaine est telle qu’environ un quart des fibres du nerf optique proviennent de ce minuscule disque. Cette disproportion est cruciale pour comprendre la vision : les photorécepteurs de la macula sont principalement des cônes, sensibles à la couleur, tandis que le reste de la rétine est majoritairement composé de bâtonnets, sensibles aux faibles intensités lumineuses. Ceci révèle un mystère : la grande majorité de notre champ visuel est très largement aveugle aux couleurs, et pourtant notre perception des couleurs semble uniforment répartie, les objets ne deviennent pas gris en périphérie !
 
 ## Et la rétine chez d'autres espèces?
 Cette organisation rétinotopique fovéée est présente chez de nombreuses espèces animales, notamment chez les mammifères. Toutefois, on observe une grande diversité entre les espèces. Chez le chat, par exemple, la densité des photorécepteurs est ainsi plus allongée sur l’axe horizontal, alors qu’elle est quasi uniforme chez le lapin ou la souris. Chaque espèce perçoit donc le monde de manière adaptée à sa niche écologique. Par exemple, certaines espèces comme les faucons ou certains dauphins possèdent même deux paires de fovéas : l’une dédiée à la navigation dans l’axe du mouvement, l’autre à la vision latérale.

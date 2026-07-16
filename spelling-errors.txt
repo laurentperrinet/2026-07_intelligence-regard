@@ -21,7 +21,7 @@ aurait
 aussi
 autour
 autres
-avec
+Avec
 aveugle
 avoir
 avons
@@ -50,7 +50,7 @@ certaines
 certains
 cerveau
 ces
-C’est
+c’est
 cet
 Cette
 chacun
@@ -154,6 +154,7 @@ diviser
 DMLA
 d’objets
 docteur
+doit
 donc
 donnant
 dont
@@ -169,7 +170,7 @@ efficacément
 efficacité
 électrochimique
 élévation
-Elle
+elle
 elles
 émotions
 énergétiques
@@ -200,7 +201,6 @@ faibles
 faire
 fait
 faucons
-fidèlement
 fixez
 floues
 fondamentale
@@ -218,7 +218,6 @@ globale
 grande
 grandes
 gravement
-Hors
 humaine
 humaines
 ici
@@ -314,9 +313,10 @@ moyens
 mystère
 n’affectent
 n’avons
+nécessairement
 n’est
 neurones
-Neurosciences
+neurosciences
 n’occupe
 nombreuses
 Notamment
@@ -349,7 +349,6 @@ pathologie
 pathologies
 paume
 pellicule
-pensons
 percevez
 percevoir
 perçoit
@@ -484,7 +483,7 @@ traiter
 transforme
 transformées
 très
-Une
+une
 uniforme
 uniforment
 Université
