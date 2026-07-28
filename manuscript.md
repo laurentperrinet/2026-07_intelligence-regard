@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-16T06:50:53+00:00" />
-  <meta property="article:modified_time" content="2026-07-16T06:50:53+00:00" />
+  <meta name="dc.modified" content="2026-07-28T16:08:09+00:00" />
+  <meta property="article:modified_time" content="2026-07-28T16:08:09+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@4b5766d](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/4b5766d8360cfd2b3372d08103a2d570c3eafd00)
-on July 16, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@8947752](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/8947752b2ac4dd2d589404a87182d0ded4ab1698)
+on July 28, 2026.
 </em></small>
 
 Published: July 8, 2026
@@ -101,11 +101,14 @@ Published: July 8, 2026
 
 
 
-Et si l’on vous révélait que le monde visuel que vous percevez en ce moment même est une reconstruction déformée de la réalité ? Pur non-sens ! Intuitivement, la géométrie de la perception que nous avons de l’environnement lumineux qui nous entoure doit nécessairement calquée sur celle de nos sensations. Pourtant, l’image qui se forme sur la rétine, l’organe sensible de la vision, présente une géométrie précisément déformée. Étudier cette propriété fondamentale de la vision est essentiel : cela permet de mieux la comprendre, de développer des moyens de soigner les pathologies visuelles, ou encore d’exploiter ces principes biologiques pour concevoir des systèmes d’intelligence artificielle plus robustes et moins énergivores, en clair, à faire « sens de nos sens ». Je suis chercheur en neurosciences computationnelles, et m’attache à décrypter la manière dont le cerveau assemble les fragments d’information pour effectuer des « calculs » — comme, par exemple, la capacité à percevoir ce texte que vous lisez. Je vais vous exposer ici les découvertes récentes sur la façon dont la géométrie de la rétine façone notre perception visuelle.
+Et si ce que vous voyez en ce moment même n’était qu’une illusion ? Intuitivement, on pourrait croire que notre perception du monde reflète fidèlement la réalité. Pourtant, la lumière qui atteint la rétine, l’organe sensible de la vision, y est captée de manière déformée : l'image est inversée, son centre est ultra-précis, mais ses bords sont flous et peu sensibles aux couleurs. Comment notre cerveau parvient-il alors à faire sens de nos sens, en nous donnant l’impression d’une image nette et uniforme ?
+
+Étudier cette propriété fondamentale de la vision est essentiel. Cela permet de mieux comprendre son fonctionnement, de développer des traitements pour les maladies oculaires, ou encore d’inspirer des systèmes d’intelligence artificielle plus performants et moins énergivores. En tant que chercheur en neurosciences computationnelles, je m’attache à décrypter la manière dont le cerveau assemble les informations visuelles pour reconstruire notre perception du monde. Je vais vous exposer ici les découvertes récentes sur la façon dont la structure de la rétine façonne ce que nous voyons.
 
 # La rétine, organe sensible de la vision
 
 La vision, quel miracle ! La perception visuelle semble pourtant si simple : il suffit d’ouvrir les yeux et regarder, alors que les mécanismes sous-jacents sont d’une complexité impressionnante. Chez l’humain, c’est une fine pellicule de cellules tapissant le fond de l’œil qui fait office de capteur : la rétine. Elle reçoit la lumière concentrée par l’optique oculaire et la transforme en un signal électrochimique ; le flux de photons y est converti par des neurones en quelques millisecondes en une information que le cerveau peut interpréter. Une découverte majeure a révélé que de nombreuses aires cérébrales conservent cette organisation topographique dite rétinotopique : les neurones situés à proximité les uns des autres dans une même aire correspondent à des points proches dans le champ visuel.
+
 
 ## La rétine, un miroir déformant
 Notre expérience révèle que notre regard est mobile dans la scène visuelle. Le point de fixation de l’œil, ce point précis de l’espace visuel que vous fixez en ce moment même sur ces mots, se déplace continuement, par exemple vers ce prochain mot. La rétinotopie humaine présente la particularité d’accorder une importance disproportionnée à la région appelée la fovéa qui entoure ce point de fixation. Pour se donner une idée quantitative, la macula, une zone qui entoure la fovéa, correspond dans l’espace visuel à un disque d’environ 5 degrés d’angle visuel — soit la taille de votre paume à bout de bras. Si l’on compare ces 5 degrés aux 180 degrés d’angle visuel en azimut et aux 120 degrés en élévation, on réalise qu’elle n’occupe que 3 millièmes de la surface totale (voir FIGURE RETINE). Pourtant, la rétinotopie humaine est telle qu’environ un quart des fibres du nerf optique proviennent de ce minuscule disque. Cette disproportion est cruciale pour comprendre la vision : les photorécepteurs de la macula sont principalement des cônes, sensibles à la couleur, tandis que le reste de la rétine est majoritairement composé de bâtonnets, sensibles aux faibles intensités lumineuses. Ceci révèle un mystère : la grande majorité de notre champ visuel est très largement aveugle aux couleurs, et pourtant notre perception des couleurs semble uniforment répartie, les objets ne deviennent pas gris en périphérie !
@@ -123,7 +126,7 @@ Ainsi, les pathologies rétiniennes n'affectent pas seulement la perception visu
 
 # L'outil de la modélisation
 
-Afin de mieux comprendre le rôle de la rétinotopie dans la vision, un outil essentiel est la modélisation. C'est en construisant de toutes pièces un système visuel reproduisant efficacément les caractéristiques humaines que l'on peut alors manipuler certaines de ces pièces et comprendre leur rôle dans la mécanique globale. C'est ce que nous avons fait en utilisant le modèle convNext, qui est ce qui se fait de mieux actuellement en vision par ordinateur et intelligence artificielle pour identifier des classes (par exemple "labrador" ou "clavier") dans des images arbitraires. Nous avons testé les capacités de ce réseau en lui présentant soit les images classiques, soit des images transformées par la rétinotopie humaine. De façon surprenante, le réseau reste efficace avec ces images déformées et mieux, il démontre de nouvelles capacités, comme celle de découvrir un animal camouflé dans une scène visuelle (cf FIGURE).
+Afin de mieux comprendre le rôle de la rétinotopie dans la vision, un outil essentiel est la modélisation. C'est en construisant de toutes pièces un système visuel reproduisant efficacément les caractéristiques humaines que l'on peut alors manipuler certaines de ces pièces et comprendre leur rôle dans la mécanique globale. C'est ce que nous avons fait en utilisant le modèle convNext, qui est ce qui se fait de mieux actuellement en vision par ordinateur et intelligence artificielle pour identifier des classes (par exemple "poisson rouge" ou "clavier") dans des images arbitraires. Nous avons testé les capacités de ce réseau en lui présentant soit les images classiques, soit des images transformées par la rétinotopie humaine. De façon surprenante, le réseau reste efficace avec ces images déformées et mieux, il démontre de nouvelles capacités, comme celle de découvrir un animal camouflé dans une scène visuelle (cf FIGURE).
 
 Cette nouvelle capacité de notre modèle à localiser des objets visuels constitue une porte ouverte à de nouveaux progrès aussi bien en IA qu'en neurosciences. En effet, l'utilisation de capteurs visuels suit une croissance exponentielle, depuis les téléphones intelligents aux voitures connectées, et chacun de ces capteurs requiert des traitement de plus en plus complexes.. Ceci démultiplie les coûts énergétiques, ce qui rend critique le besoin de gérer au mieux leur consommation. En utilisant en priorité les pixels autour d'une région d'intéret, on peut ainsi diviser les coûts de traitements d'un facteur significatif. De plus, ces systèmes peuvent permettre de répondre plus rapidement ce qui est crucial par exemple dans la nouvelle génération de voitures.
 
