@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/gh-pages) branch hosts the contents of this directory at <https://laurentperrinet.github.io/2026-07_intelligence-regard/>.
-The permalink for this webpage version is <https://laurentperrinet.github.io/2026-07_intelligence-regard/v/4b5766d8360cfd2b3372d08103a2d570c3eafd00/>.
+The permalink for this webpage version is <https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://laurentperrinet.github.io/2026-07_intelligence-regard/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`4b5766d8360cfd2b3372d08103a2d570c3eafd00`](https://github.com/laurentperrinet/2026-07_intelligence-regard/commit/4b5766d8360cfd2b3372d08103a2d570c3eafd00).
+[`8947752b2ac4dd2d589404a87182d0ded4ab1698`](https://github.com/laurentperrinet/2026-07_intelligence-regard/commit/8947752b2ac4dd2d589404a87182d0ded4ab1698).
