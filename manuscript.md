@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-28T16:08:09+00:00" />
-  <meta property="article:modified_time" content="2026-07-28T16:08:09+00:00" />
+  <meta name="dc.modified" content="2026-07-28T16:09:14+00:00" />
+  <meta property="article:modified_time" content="2026-07-28T16:09:14+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d803fab760ed7c049bd4a07b68df26fd692aa97c/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d803fab760ed7c049bd4a07b68df26fd692aa97c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d803fab760ed7c049bd4a07b68df26fd692aa97c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/8947752b2ac4dd2d589404a87182d0ded4ab1698/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/d803fab760ed7c049bd4a07b68df26fd692aa97c/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@8947752](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/8947752b2ac4dd2d589404a87182d0ded4ab1698)
+from [laurentperrinet/2026-07_intelligence-regard@d803fab](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/d803fab760ed7c049bd4a07b68df26fd692aa97c)
 on July 28, 2026.
 </em></small>
 
@@ -101,7 +101,7 @@ Published: July 8, 2026
 
 
 
-Et si ce que vous voyez en ce moment même n’était qu’une illusion ? Intuitivement, on pourrait croire que notre perception du monde reflète fidèlement la réalité. Pourtant, la lumière qui atteint la rétine, l’organe sensible de la vision, y est captée de manière déformée : l'image est inversée, son centre est ultra-précis, mais ses bords sont flous et peu sensibles aux couleurs. Comment notre cerveau parvient-il alors à faire sens de nos sens, en nous donnant l’impression d’une image nette et uniforme ?
+Et si votre cerveau réinventait l’espace qui vous entoure sans que vous vous en rendiez compte ? Intuitivement, on pourrait croire que notre perception du monde reflète fidèlement la réalité. Pourtant, la lumière qui atteint la rétine, l’organe sensible de la vision, y est captée de manière déformée : l'image est inversée, son centre est ultra-précis, mais ses bords sont flous et peu sensibles aux couleurs. Comment notre cerveau parvient-il alors à faire sens de nos sens, en nous donnant l’impression d’une image nette et uniforme ?
 
 Étudier cette propriété fondamentale de la vision est essentiel. Cela permet de mieux comprendre son fonctionnement, de développer des traitements pour les maladies oculaires, ou encore d’inspirer des systèmes d’intelligence artificielle plus performants et moins énergivores. En tant que chercheur en neurosciences computationnelles, je m’attache à décrypter la manière dont le cerveau assemble les informations visuelles pour reconstruire notre perception du monde. Je vais vous exposer ici les découvertes récentes sur la façon dont la structure de la rétine façonne ce que nous voyons.
 

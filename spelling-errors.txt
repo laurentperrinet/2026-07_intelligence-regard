@@ -56,7 +56,7 @@ cette
 chacun
 Chaque
 chercheur
-chez
+Chez
 classiques
 clinique
 CNRS
@@ -70,6 +70,7 @@ composé
 compréhension
 comprend
 comprendre
+compte
 computationnelles
 concentre
 concentrée
@@ -240,7 +241,7 @@ inversée
 invisibilise
 involontaires
 jacents
-je
+Je
 jusqu’au
 Koric
 l’âge
@@ -275,7 +276,7 @@ L’outil
 lui
 lumière
 lumineuses
-L’une
+l’une
 l’utilisation
 macula
 maculaire
@@ -313,13 +314,12 @@ mystère
 n’affectent
 n’avons
 n’est
-n’était
 nette
 neurones
 neurosciences
 n’occupe
 nombreuses
-notamment
+Notamment
 notre
 nouveau
 nouveaux
@@ -375,7 +375,7 @@ porte
 possèdent
 pourquoi
 pourrait
-Pourtant
+pourtant
 pouvoir
 practicien
 précis
@@ -407,7 +407,6 @@ qui
 qu’il
 quoi
 quotidienne
-qu’une
 rapidement
 réalise
 réalité
@@ -419,7 +418,9 @@ rééducation
 reflète
 regarder
 région
+réinventait
 remplacer
+rendiez
 répartie
 répondre
 réponses
@@ -506,7 +507,6 @@ voir
 voitures
 votre
 vous
-voyez
 voyons
 vu
 yeux
