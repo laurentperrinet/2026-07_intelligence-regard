@@ -3,7 +3,7 @@ actuellement
 actuels
 affecte
 affecter
-afin
+Afin
 ainsi
 aire
 ait
@@ -48,15 +48,15 @@ celle
 cellules
 centrale
 cérébrale
-certaines
+Certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-Cette
+cette
 chacun
-chaque
+Chaque
 chercheur
 chez
 classiques
@@ -160,7 +160,7 @@ effet
 efficace
 efficacément
 efficacité
-Elle
+elle
 elles
 émotions
 énergétiques
@@ -242,7 +242,7 @@ inventaire
 inversée
 invisibilise
 involontaires
-Je
+je
 jusqu’au
 Koric
 l’âge
@@ -281,7 +281,7 @@ L’outil
 lui
 lumière
 l’un
-l’une
+L’une
 l’utilisation
 macula
 maculaire
@@ -506,7 +506,7 @@ traitements
 traiter
 transforme
 transformées
-Une
+une
 uniforme
 uniformément
 uniques
