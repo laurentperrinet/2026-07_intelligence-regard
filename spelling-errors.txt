@@ -4,7 +4,7 @@ actuels
 affecte
 affecter
 afin
-ainsi
+Ainsi
 aire
 ait
 Aix
@@ -32,6 +32,7 @@ besoin
 besoins
 bien
 bords
+cachant
 Calabrese
 camouflé
 capacité
@@ -49,15 +50,15 @@ celle
 cellules
 centrale
 cérébrale
-certaines
+Certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-cette
+Cette
 chacun
-Chaque
+chaque
 chercheur
 chez
 classiques
@@ -203,6 +204,7 @@ fidèlement
 floues
 flous
 focalisée
+fonction
 fonctionnement
 forme
 formes
@@ -226,7 +228,7 @@ ici
 idée
 impacter
 induire
-ineficcace
+inefficace
 infime
 informations
 innovantes
@@ -241,7 +243,8 @@ Intuitivement
 inventaire
 invisibilise
 involontaires
-Je
+je
+jouer
 jusqu’au
 Koric
 l’âge
@@ -267,6 +270,7 @@ liberté
 liée
 l’image
 l’importance
+l’information
 l’intelligence
 L’objectif
 localiser
@@ -320,11 +324,11 @@ n’avons
 nerveux
 n’est
 neurones
-neurosciences
+Neurosciences
 nombreuses
 nombreux
-Notamment
-notre
+notamment
+Notre
 nouveau
 nouveaux
 nouvel
@@ -365,7 +369,6 @@ permet
 permettent
 permettre
 Perrinet
-persepcttive
 personnels
 personnes
 perturbant
@@ -384,9 +387,9 @@ possèdent
 pouce
 pourquoi
 pourrait
-Pourtant
+pourtant
 pouvoir
-practicien
+praticien
 précis
 précise
 précision
@@ -448,6 +451,7 @@ retrouve
 revanche
 révélant
 révèle
+révéler
 riche
 rôle
 saccades
@@ -506,7 +510,7 @@ traiter
 transforme
 transformées
 travaux
-une
+Une
 uniforme
 uniformément
 uniques
