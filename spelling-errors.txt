@@ -1,7 +1,7 @@
 accélérer
 activement
+actuel
 actuelle
-actuels
 affecte
 affectent
 afin
@@ -23,6 +23,7 @@ artificiel
 artificielle
 atteindre
 atteintes
+attendues
 augmente
 augmentent
 aussi
@@ -54,10 +55,10 @@ celui
 centrale
 cependant
 cérébrales
-Certaines
+certaines
 certains
 cerveau
-Ces
+ces
 C’est
 Cette
 Chaque
@@ -82,7 +83,7 @@ complexité
 compliquent
 comportementales
 compréhension
-Comprendre
+comprendre
 computationnelles
 concentrant
 concentre
@@ -107,11 +108,10 @@ couvre
 cruciale
 d’Alzheimer
 dans
-D’autres
+d’autres
 décalage
 décisif
 d’éclairer
-découvertes
 décrite
 déformant
 déformées
@@ -135,8 +135,8 @@ devenue
 deviennent
 devient
 diagnostiquer
+différence
 difficile
-d’images
 d’intelligence
 d’intérêt
 diriger
@@ -149,6 +149,7 @@ diverses
 DMLA
 d’objets
 doivent
+domaine
 donc
 données
 d’ouvrir
@@ -161,7 +162,7 @@ efficaces
 efficacité
 éléments
 élevé
-elle
+Elle
 Elles
 embarqués
 énergétiques
@@ -216,11 +217,9 @@ humaine
 humaines
 Ibn
 illisibles
-Ils
 inégale
 informations
 innovantes
-inspirera
 Institut
 insu
 intelligentes
@@ -289,7 +288,6 @@ mécanisme
 méconnaissance
 méconnues
 médicale
-meilleurs
 même
 mène
 mettent
@@ -305,7 +303,6 @@ modifions
 moins
 monde
 montre
-montré
 mouvement
 mouvements
 n’affectent
@@ -317,7 +314,7 @@ neurosciences
 niveau
 nombreuses
 nombreux
-notre
+Notre
 nouvel
 nouvelle
 nouvelles
@@ -328,6 +325,7 @@ oculomoteur
 œil
 optimisée
 optique
+ordinateur
 ordre
 ou
 où
@@ -360,7 +358,7 @@ pleinement
 plusieurs
 possèdent
 pouce
-pourquoi
+Pourquoi
 Pourtant
 poussent
 pouvoir
@@ -398,6 +396,7 @@ reconstruire
 reconstruit
 réduire
 rééducation
+référence
 reflète
 regardait
 regardez
@@ -431,19 +430,21 @@ rôle
 saccades
 scène
 scientifiques
-selon
+Selon
 semble
-s’en
 sensibles
 ses
 s’étendre
 seulement
 sévères
+s’explique
 siècle
 siècles
 signaux
 significativement
+simplement
 simplicité
+s’inspire
 située
 situent
 sobres
@@ -487,7 +488,7 @@ transformées
 travaux
 travers
 très
-Une
+une
 uniforme
 Université
 utile
