@@ -3,8 +3,8 @@ actuellement
 actuels
 affecte
 affecter
-Afin
-Ainsi
+afin
+ainsi
 aire
 ait
 Aix
@@ -53,9 +53,9 @@ certaines
 certains
 cerveau
 ces
-C’est
+c’est
 cet
-Cette
+cette
 chacun
 Chaque
 chercheur
@@ -164,7 +164,7 @@ effet
 efficace
 efficacément
 efficacité
-Elle
+elle
 elles
 émotions
 énergétiques
@@ -241,7 +241,7 @@ Intuitivement
 inventaire
 invisibilise
 involontaires
-je
+Je
 jusqu’au
 Koric
 l’âge
@@ -274,6 +274,7 @@ l’œil
 l’on
 l’optique
 l’organe
+l’organisation
 L’outil
 lui
 lumière
@@ -319,10 +320,10 @@ n’avons
 nerveux
 n’est
 neurones
-Neurosciences
+neurosciences
 nombreuses
 nombreux
-notamment
+Notamment
 notre
 nouveau
 nouveaux
@@ -383,7 +384,7 @@ possèdent
 pouce
 pourquoi
 pourrait
-pourtant
+Pourtant
 pouvoir
 practicien
 précis
@@ -505,7 +506,7 @@ traiter
 transforme
 transformées
 travaux
-Une
+une
 uniforme
 uniformément
 uniques

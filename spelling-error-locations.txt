@@ -67,11 +67,11 @@ content/10.content.md:3:énergivores
 content/10.content.md:3:façon
 content/10.content.md:3:façonne
 content/10.content.md:3:fonctionnement
-content/10.content.md:3:géométrie
 content/10.content.md:3:ici
 content/10.content.md:3:informations
 content/10.content.md:3:je
 content/10.content.md:3:Je
+content/10.content.md:3:l'organisation
 content/10.content.md:3:m’attache
 content/10.content.md:3:mécanisme
 content/10.content.md:3:mieux
@@ -85,6 +85,7 @@ content/10.content.md:3:permet
 content/10.content.md:3:récentes
 content/10.content.md:3:reconstruire
 content/10.content.md:3:rétine
+content/10.content.md:3:spatiale
 content/10.content.md:3:sur
 content/10.content.md:3:systèmes
 content/10.content.md:3:tant
