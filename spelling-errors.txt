@@ -29,6 +29,7 @@ autour
 Avec
 avons
 bâtonnets
+beaucoup
 Bien
 cacher
 Calabrese
@@ -49,10 +50,10 @@ celui
 centrale
 cependant
 cérébrales
-certaines
+Certaines
 certains
 cerveau
-ces
+Ces
 C’est
 Cet
 cette
@@ -62,7 +63,6 @@ Chez
 classe
 classiques
 clé
-clinique
 CNRS
 cohérente
 colorée
@@ -76,7 +76,7 @@ complexité
 compliquent
 comportementales
 compréhension
-Comprendre
+comprendre
 computationnelles
 concentre
 concentrée
@@ -96,7 +96,7 @@ couplage
 coûts
 couvre
 d’Alzheimer
-Dans
+dans
 D’autres
 davantage
 décalage
@@ -105,6 +105,7 @@ décisif
 découvertes
 décrite
 déformant
+déformée
 déformées
 dégénère
 dégénérescence
@@ -115,7 +116,7 @@ déplacement
 déplacent
 depuis
 derrière
-des
+Des
 Dès
 détails
 détecter
@@ -170,10 +171,12 @@ explique
 exploitée
 faible
 faucons
+fiable
 fidèlement
 floue
 floues
 focalisée
+fois
 fonctionnement
 formes
 fortement
@@ -193,6 +196,7 @@ Haytham
 hémicycle
 humaine
 humaines
+hypothèses
 Ibn
 inclut
 indissociables
@@ -229,6 +233,7 @@ l’espace
 lettres
 leur
 l’humain
+l’IA
 liée
 l’image
 l’intelligence
@@ -236,7 +241,6 @@ L’objectif
 l’œil
 l’optique
 l’organisation
-L’outil
 lui
 lumière
 l’un
@@ -286,7 +290,7 @@ neurones
 neurosciences
 nombreuses
 nombreux
-notre
+Notre
 nouveau
 nouvel
 nouvelle
@@ -301,7 +305,6 @@ optimisée
 optique
 ordinateur
 ordre
-organe
 ou
 outil
 outils
@@ -323,6 +326,7 @@ Perrinet
 perturbée
 peut
 peuvent
+photographie
 photorécepteurs
 piloté
 placés
@@ -363,6 +367,7 @@ réalité
 récentes
 recherches
 reconstruire
+reconstruit
 réduire
 rééducation
 référence
@@ -390,14 +395,16 @@ rétinotopie
 rétrécit
 retrouve
 révélant
+révèle
 révèlent
 révéler
 rôle
 saccades
+santé
 s’appuie
 scène
 scientifiques
-Selon
+selon
 semble
 sensibles
 ses
@@ -435,6 +442,7 @@ tant
 tard
 téléphones
 tendu
+testent
 théorie
 thérapeutiques
 tient
@@ -450,7 +458,7 @@ transforme
 transformées
 travaux
 très
-Une
+une
 uniforme
 Université
 utile
