@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-29T07:15:18+00:00" />
-  <meta property="article:modified_time" content="2026-07-29T07:15:18+00:00" />
+  <meta name="dc.modified" content="2026-07-30T06:23:22+00:00" />
+  <meta property="article:modified_time" content="2026-07-30T06:23:22+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a59f10ea4fe17f8add85b0b5965930b8fc7bcf13/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a59f10ea4fe17f8add85b0b5965930b8fc7bcf13/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a59f10ea4fe17f8add85b0b5965930b8fc7bcf13/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/42b8024b035d52362544ab11d88eca5f3ce5846d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/42b8024b035d52362544ab11d88eca5f3ce5846d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/42b8024b035d52362544ab11d88eca5f3ce5846d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a59f10ea4fe17f8add85b0b5965930b8fc7bcf13/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/42b8024b035d52362544ab11d88eca5f3ce5846d/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@a59f10e](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/a59f10ea4fe17f8add85b0b5965930b8fc7bcf13)
-on July 29, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@42b8024](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/42b8024b035d52362544ab11d88eca5f3ce5846d)
+on July 30, 2026.
 </em></small>
 
 Published: July 8, 2026
@@ -101,9 +101,9 @@ Published: July 8, 2026
 
 
 
-Et si votre cerveau réinventait l’espace qui vous entoure sans que vous vous en rendiez compte ? Intuitivement, on pourrait croire que notre vision de l’espace reflète fidèlement sa représentation dans le cerveau. Pourtant, l'image qui atteint la rétine, l’organe sensible de la vision, y est captée de manière déformée : elle y est renversée, son centre est ultra-précis, et ses bords sont flous et peu sensibles aux couleurs. Comment notre cerveau parvient-il alors à reconstruire une image cohérente ?
+Et si on vous disait que votre cerveau remodelait l’espace qui vous entoure sans que vous vous en rendiez compte ? Intuitivement, on pourrait croire que notre vision de l’espace reflète fidèlement sa représentation dans le cerveau. Pourtant, l'image qui atteint la rétine, l’organe sensible de la vision, y est captée de manière déformée : son centre est ultra-précis, et ses bords sont flous et peu sensibles aux couleurs. Comment notre cerveau parvient-il alors à reconstruire l'image que nous percevons ?
 
-Comprendre ce mécanisme est crucial : cela permet de mieux appréhender le fonctionnement de la vision, de développer des traitements pour les maladies oculaires, ou encore d’inspirer des systèmes d’intelligence artificielle plus performants et moins énergivores. En tant que chercheur en neurosciences computationnelles, je m’attache à décrypter comment le cerveau assemble les informations visuelles pour reconstruire ce que nous voyons. Je vous propose ici d’explorer les découvertes récentes sur la façon dont la structure de la rétine façonne notre perception.
+Comprendre ce mécanisme est crucial : cela permet de mieux appréhender le fonctionnement de la vision, de développer des traitements pour les maladies oculaires, ou encore d’inspirer des systèmes d’intelligence artificielle plus performants et moins énergivores. En tant que chercheur en neurosciences computationnelles, je m’attache à décrypter comment le cerveau assemble les informations visuelles pour reconstruire un ensemble cohérent. Je vous propose ici d’explorer les découvertes récentes sur la façon dont la géométrie de la rétine façonne notre perception.
 
 # La rétine, organe sensible de la vision
 

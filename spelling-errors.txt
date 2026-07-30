@@ -3,8 +3,8 @@ actuellement
 actuels
 affecte
 affecter
-afin
-ainsi
+Afin
+Ainsi
 aire
 ait
 Aix
@@ -44,7 +44,7 @@ caractéristiques
 casques
 Castet
 Ceci
-cela
+Cela
 celle
 cellules
 centrale
@@ -57,13 +57,13 @@ C’est
 cet
 Cette
 chacun
-chaque
+Chaque
 chercheur
 chez
 classiques
 clinique
 CNRS
-cohérente
+cohérent
 colorée
 comme
 complément
@@ -148,6 +148,7 @@ difficulté
 d’inspirer
 d’intelligence
 d’intéret
+disait
 diverses
 diviser
 DMLA
@@ -277,7 +278,7 @@ L’outil
 lui
 lumière
 l’un
-l’une
+L’une
 l’utilisation
 macula
 maculaire
@@ -318,10 +319,10 @@ n’avons
 nerveux
 n’est
 neurones
-neurosciences
+Neurosciences
 nombreuses
 nombreux
-Notamment
+notamment
 notre
 nouveau
 nouveaux
@@ -382,7 +383,7 @@ possèdent
 pouce
 pourquoi
 pourrait
-Pourtant
+pourtant
 pouvoir
 practicien
 précis
@@ -424,10 +425,9 @@ reconstruire
 rééducation
 reflète
 région
-réinventait
+remodelait
 remplacer
 rendiez
-renversée
 répartition
 répondre
 réponses
