@@ -26,7 +26,7 @@ augmente
 augmentent
 aussi
 autour
-avec
+Avec
 avons
 bâtonnets
 Bien
@@ -43,23 +43,22 @@ cartographie
 casques
 Castet
 catégories
-Cela
 celle
 cellules
 celui
 centrale
 cependant
 cérébrales
-Certaines
+certaines
 certains
 cerveau
-Ces
+ces
 C’est
 Cet
 cette
 Chaque
 chercheur
-chez
+Chez
 classe
 classiques
 clé
@@ -77,7 +76,7 @@ complexité
 compliquent
 comportementales
 compréhension
-comprendre
+Comprendre
 computationnelles
 concentre
 concentrée
@@ -88,6 +87,7 @@ conséquences
 construisons
 contextes
 contient
+contraire
 contrôle
 ConvNeXt
 couche
@@ -115,7 +115,7 @@ déplacement
 déplacent
 depuis
 derrière
-Des
+des
 Dès
 détails
 détecter
@@ -271,6 +271,7 @@ modèle
 modèles
 modélisation
 moderne
+modifions
 moins
 monde
 montre
@@ -282,7 +283,7 @@ naturelle
 nerveux
 n’est
 neurones
-Neurosciences
+neurosciences
 nombreuses
 nombreux
 notre
@@ -312,6 +313,7 @@ particulièrement
 partie
 partielles
 partir
+parvient
 pathologies
 pensons
 percevoir
@@ -330,7 +332,6 @@ pouce
 pourquoi
 Pourtant
 pouvoir
-pouvons
 praticien
 précise
 précisément
@@ -344,6 +345,7 @@ processus
 prochaines
 proche
 proches
+produire
 progressons
 projetée
 propre
@@ -360,7 +362,7 @@ rapidement
 réalité
 récentes
 recherches
-reconstruit
+reconstruire
 réduire
 rééducation
 référence
@@ -392,11 +394,10 @@ révèlent
 révéler
 rôle
 saccades
-s’agit
 s’appuie
 scène
 scientifiques
-selon
+Selon
 semble
 sensibles
 ses
@@ -430,7 +431,6 @@ surprenant
 surtout
 système
 systèmes
-taille
 tant
 tard
 téléphones
@@ -450,7 +450,7 @@ transforme
 transformées
 travaux
 très
-une
+Une
 uniforme
 Université
 utile

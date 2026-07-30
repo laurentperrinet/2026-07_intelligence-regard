@@ -16,13 +16,14 @@ content/10.content.md:1:maximale
 content/10.content.md:1:moins
 content/10.content.md:1:monde
 content/10.content.md:1:notre
+content/10.content.md:1:parvient
 content/10.content.md:1:pensons
 content/10.content.md:1:périphérie
 content/10.content.md:1:Pourtant
 content/10.content.md:1:précision
 content/10.content.md:1:projetée
 content/10.content.md:1:qui
-content/10.content.md:1:reconstruit
+content/10.content.md:1:reconstruire
 content/10.content.md:1:reflète
 content/10.content.md:1:remodelait
 content/10.content.md:1:rétine
@@ -35,12 +36,10 @@ content/10.content.md:1:votre
 content/10.content.md:1:vous
 content/10.content.md:3:artificielle
 content/10.content.md:3:aussi
-content/10.content.md:3:Cela
-content/10.content.md:3:Cela
-content/10.content.md:3:Cela
 content/10.content.md:3:certaines
 content/10.content.md:3:cerveau
 content/10.content.md:3:chercheur
+content/10.content.md:3:cohérente
 content/10.content.md:3:Comprendre
 content/10.content.md:3:computationnelles
 content/10.content.md:3:décisif
@@ -62,6 +61,7 @@ content/10.content.md:3:mieux
 content/10.content.md:3:neurosciences
 content/10.content.md:3:oculaires
 content/10.content.md:3:partielles
+content/10.content.md:3:produire
 content/10.content.md:3:récentes
 content/10.content.md:3:recherches
 content/10.content.md:3:rétine
@@ -72,6 +72,7 @@ content/10.content.md:3:spatiale
 content/10.content.md:3:sur
 content/10.content.md:3:systèmes
 content/10.content.md:3:tant
+content/10.content.md:3:une
 content/10.content.md:3:visuelles
 content/10.content.md:3:Voici
 content/10.content.md:5:organe
@@ -213,6 +214,7 @@ content/10.content.md:9:des
 content/10.content.md:9:détails
 content/10.content.md:9:distingue
 content/10.content.md:9:d’un
+content/10.content.md:9:d’un
 content/10.content.md:9:effet
 content/10.content.md:9:efficaces
 content/10.content.md:9:elle
@@ -269,7 +271,6 @@ content/10.content.md:9:sensibles
 content/10.content.md:9:située
 content/10.content.md:9:surtout
 content/10.content.md:9:surtout
-content/10.content.md:9:taille
 content/10.content.md:9:tendu
 content/10.content.md:9:tient
 content/10.content.md:9:toute
@@ -390,6 +391,7 @@ content/10.content.md:15:l’un
 content/10.content.md:15:macula
 content/10.content.md:15:maculaire
 content/10.content.md:15:Mairot
+content/10.content.md:15:mais
 content/10.content.md:15:malvoyance
 content/10.content.md:15:marquants
 content/10.content.md:15:n’est
@@ -409,7 +411,6 @@ content/10.content.md:15:quoi
 content/10.content.md:15:quotidienne
 content/10.content.md:15:remplacer
 content/10.content.md:15:rétine
-content/10.content.md:15:s’agit
 content/10.content.md:15:spécialistes
 content/10.content.md:15:supérieure
 content/10.content.md:15:sur
@@ -582,8 +583,8 @@ content/10.content.md:23:humaines
 content/10.content.md:23:l’ensemble
 content/10.content.md:23:leur
 content/10.content.md:23:modélisation
+content/10.content.md:23:modifions
 content/10.content.md:23:outil
-content/10.content.md:23:pouvons
 content/10.content.md:23:qui
 content/10.content.md:23:reproduit
 content/10.content.md:23:rétinotopie
@@ -754,6 +755,7 @@ content/10.content.md:31:une
 content/10.content.md:35:celle
 content/10.content.md:35:complexe
 content/10.content.md:35:compréhension
+content/10.content.md:35:contraire
 content/10.content.md:35:dans
 content/10.content.md:35:décalage
 content/10.content.md:35:déformant
