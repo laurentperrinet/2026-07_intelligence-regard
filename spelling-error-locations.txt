@@ -146,6 +146,9 @@ content/10.content.md:7:nerveux
 content/10.content.md:7:neurones
 content/10.content.md:7:nombreuses
 content/10.content.md:7:notre
+content/10.content.md:7:œil
+content/10.content.md:7:œil
+content/10.content.md:7:œil
 content/10.content.md:7:optique
 content/10.content.md:7:ou
 content/10.content.md:7:particularité
@@ -339,7 +342,7 @@ content/10.content.md:13:l’une
 content/10.content.md:13:mammifères
 content/10.content.md:13:n’est
 content/10.content.md:13:nombreux
-content/10.content.md:13:oeil
+content/10.content.md:13:œil
 content/10.content.md:13:optimisée
 content/10.content.md:13:ou
 content/10.content.md:13:paire
@@ -593,11 +596,11 @@ content/10.content.md:21:cette
 content/10.content.md:21:concentre
 content/10.content.md:21:concentre
 content/10.content.md:21:conséquences
-content/10.content.md:21:controlé
 content/10.content.md:21:contrôle
 content/10.content.md:21:contrôle
 content/10.content.md:21:contrôle
 content/10.content.md:21:contrôle
+content/10.content.md:21:contrôlé
 content/10.content.md:21:couplés
 content/10.content.md:21:dégénérescence
 content/10.content.md:21:délétères
@@ -651,8 +654,9 @@ content/10.content.md:21:proposées
 content/10.content.md:21:qui
 content/10.content.md:21:qui
 content/10.content.md:21:réalité
-content/10.content.md:21:reconnaitre
+content/10.content.md:21:reconnaître
 content/10.content.md:21:rééducation
+content/10.content.md:21:ressources
 content/10.content.md:21:rétiniennes
 content/10.content.md:21:rétinotopie
 content/10.content.md:21:saccades
@@ -779,7 +783,7 @@ content/10.content.md:27:démultiplie
 content/10.content.md:27:depuis
 content/10.content.md:27:des
 content/10.content.md:27:des
-content/10.content.md:27:d'intéret
+content/10.content.md:27:d'intérêt
 content/10.content.md:27:diviser
 content/10.content.md:27:d'un
 content/10.content.md:27:d'une
@@ -791,7 +795,7 @@ content/10.content.md:27:facteur
 content/10.content.md:27:génération
 content/10.content.md:27:gérer
 content/10.content.md:27:intelligents
-content/10.content.md:27:intéret
+content/10.content.md:27:intérêt
 content/10.content.md:27:leur
 content/10.content.md:27:localiser
 content/10.content.md:27:l'utilisation
@@ -820,7 +824,7 @@ content/10.content.md:27:requiert
 content/10.content.md:27:significatif
 content/10.content.md:27:systèmes
 content/10.content.md:27:téléphones
-content/10.content.md:27:traitement
+content/10.content.md:27:traitements
 content/10.content.md:27:traitements
 content/10.content.md:27:une
 content/10.content.md:27:une
@@ -857,7 +861,7 @@ content/10.content.md:29:déplacer
 content/10.content.md:29:déplacer
 content/10.content.md:29:détecter
 content/10.content.md:29:d'intelligence
-content/10.content.md:29:d'intéret
+content/10.content.md:29:d'intérêt
 content/10.content.md:29:donnant
 content/10.content.md:29:effet
 content/10.content.md:29:elle
@@ -868,8 +872,8 @@ content/10.content.md:29:exploitée
 content/10.content.md:29:façon
 content/10.content.md:29:floues
 content/10.content.md:29:fortement
-content/10.content.md:29:intéret
-content/10.content.md:29:intéret
+content/10.content.md:29:intérêt
+content/10.content.md:29:intérêt
 content/10.content.md:29:intime
 content/10.content.md:29:largement
 content/10.content.md:29:l'ensemble
@@ -956,6 +960,7 @@ content/10.content.md:33:notre
 content/10.content.md:33:notre
 content/10.content.md:33:notre
 content/10.content.md:33:nouvelles
+content/10.content.md:33:œil
 content/10.content.md:33:organe
 content/10.content.md:33:pouvoir
 content/10.content.md:33:progressé

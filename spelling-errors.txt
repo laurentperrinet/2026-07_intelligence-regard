@@ -4,7 +4,7 @@ actuels
 affecte
 affecter
 afin
-Ainsi
+ainsi
 aire
 ait
 Aix
@@ -23,7 +23,7 @@ atteint
 aurait
 aussi
 autour
-avec
+Avec
 aveugle
 avoir
 avons
@@ -54,11 +54,11 @@ Certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-cette
+Cette
 chacun
-Chaque
+chaque
 chercheur
 chez
 classiques
@@ -96,8 +96,8 @@ construisant
 contient
 contraire
 contrepartie
-controlé
 contrôle
+contrôlé
 convNext
 couche
 couleur
@@ -147,7 +147,7 @@ différente
 difficulté
 d’inspirer
 d’intelligence
-d’intéret
+d’intérêt
 disait
 diverses
 diviser
@@ -164,7 +164,7 @@ effet
 efficace
 efficacément
 efficacité
-elle
+Elle
 elles
 émotions
 énergétiques
@@ -233,7 +233,7 @@ innovantes
 inspirera
 Institut
 intelligents
-intéret
+intérêt
 interpréter
 intime
 intriguent
@@ -339,7 +339,7 @@ objets
 occipito
 oculaires
 oculomoteur
-oeil
+œil
 optimisée
 optique
 ordinateur
@@ -423,7 +423,7 @@ qu’une
 rapidement
 réalité
 récentes
-reconnaitre
+reconnaître
 reconstruire
 rééducation
 reflète
@@ -502,7 +502,6 @@ Timone
 tôt
 toutes
 traite
-traitement
 traitements
 traiter
 transforme
