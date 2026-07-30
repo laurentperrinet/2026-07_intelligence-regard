@@ -1,9 +1,12 @@
 ---
-title: L'intelligence du regard
+title: 'L''intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée'
 keywords:
-- Perception visuelle
-- Anatomie
-- Modélisation neurale
+- perception visuelle
+- rétinotopie
+- neurosciences
+- santé visuelle
+- intelligence artificielle
+- modélisation
 lang: fr-FR
 date-meta: '2026-07-08'
 author-meta:
@@ -15,15 +18,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="L&#39;intelligence du regard" />
-  <meta name="citation_title" content="L&#39;intelligence du regard" />
-  <meta property="og:title" content="L&#39;intelligence du regard" />
-  <meta property="twitter:title" content="L&#39;intelligence du regard" />
+  <meta name="dc.title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
+  <meta name="citation_title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
+  <meta property="og:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
+  <meta property="twitter:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-30T08:02:58+00:00" />
-  <meta property="article:modified_time" content="2026-07-30T08:02:58+00:00" />
+  <meta name="dc.modified" content="2026-07-30T08:07:16+00:00" />
+  <meta property="article:modified_time" content="2026-07-30T08:07:16+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/91aa2f176ed68db739cd8421e5c119e3cd329050/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/91aa2f176ed68db739cd8421e5c119e3cd329050/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/91aa2f176ed68db739cd8421e5c119e3cd329050/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f1f2a76ffd964093cb4a7120ed1e246fff8e61dd/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f1f2a76ffd964093cb4a7120ed1e246fff8e61dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f1f2a76ffd964093cb4a7120ed1e246fff8e61dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/91aa2f176ed68db739cd8421e5c119e3cd329050/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/f1f2a76ffd964093cb4a7120ed1e246fff8e61dd/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@91aa2f1](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/91aa2f176ed68db739cd8421e5c119e3cd329050)
+from [laurentperrinet/2026-07_intelligence-regard@f1f2a76](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/f1f2a76ffd964093cb4a7120ed1e246fff8e61dd)
 on July 30, 2026.
 </em></small>
 
@@ -101,11 +104,10 @@ Published: July 8, 2026
 
 
 
-# Vision : comment le cerveau reconstruit un monde cohérent à partir d’une image inégale
 
 *Nous avons l’impression de voir un monde continu, net et coloré. Pourtant, l’image captée par la rétine n'est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comprendre ce décalage permet de mieux comprendre et diagnostiquer certaines pathologies visuelles et inspire des approches plus sobres en intelligence artificielle.*
 
-Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intuitivement, nous pensons que notre vision reflète fidèlement le monde. Pourtant, l’image formée sur la rétine est très inégale. Au centre, la précision est maximale. En périphérie, la vision devient floue et moins sensible aux couleurs. Comment le cerveau parvient-il alors à reconstruire une perception visuelle cohérente ?
+Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intuitivement, nous pensons que notre vision reflète fidèlement le monde. Pourtant, l’image formée sur la rétine n'est pas uniforme. Au centre, la précision est maximale. En périphérie, la vision devient floue et moins sensible aux couleurs. Comment le cerveau parvient-il alors à reconstruire une perception visuelle cohérente ?
 
 Comprendre ce mécanisme est un enjeu majeur. Il éclaire le fonctionnement de la vision. Il aide aussi à mieux diagnostiquer certaines maladies oculaires. Il inspire enfin des systèmes d’intelligence artificielle plus sobres en énergie. En tant que chercheur en neurosciences computationnelles, j’étudie comment le cerveau assemble des informations visuelles partielles pour produire une perception cohérente. Voici ce que les recherches récentes révèlent sur le rôle décisif de l’organisation spatiale de la rétine.
 
