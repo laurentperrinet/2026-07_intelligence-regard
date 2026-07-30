@@ -30,7 +30,7 @@ aussi
 autonomes
 autour
 avancées
-Avec
+avec
 avoir
 avons
 bâtonnets
@@ -58,12 +58,12 @@ cérébrales
 Certaines
 certains
 cerveau
-Ces
+ces
 C’est
-cette
+Cette
 Chaque
 chercheur
-chez
+Chez
 classer
 classiques
 clé
@@ -82,7 +82,7 @@ complexité
 compliquent
 comportementales
 compréhension
-Comprendre
+comprendre
 computationnelles
 concentrant
 concentre
@@ -106,7 +106,7 @@ coûts
 couvre
 cruciale
 d’Alzheimer
-Dans
+dans
 D’autres
 décalage
 décisif
@@ -313,7 +313,7 @@ neurosciences
 niveau
 nombreuses
 nombreux
-Notre
+notre
 nouvel
 nouvelle
 nouvelles
@@ -357,7 +357,7 @@ pleinement
 plusieurs
 possèdent
 pouce
-Pourquoi
+pourquoi
 Pourtant
 poussent
 pouvoir
@@ -412,6 +412,7 @@ responsables
 ressources
 reste
 résultat
+Résumé
 retentissement
 RETINE
 rétine
