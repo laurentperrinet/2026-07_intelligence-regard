@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-07-30T06:28:26+00:00" />
-  <meta property="article:modified_time" content="2026-07-30T06:28:26+00:00" />
+  <meta name="dc.modified" content="2026-07-30T06:31:34+00:00" />
+  <meta property="article:modified_time" content="2026-07-30T06:31:34+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7aed811db43612752d85bb0c8157f4aed26d32d6/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7aed811db43612752d85bb0c8157f4aed26d32d6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7aed811db43612752d85bb0c8157f4aed26d32d6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/82ce6ef80231ef21255566994b26b8738d05b17f/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/82ce6ef80231ef21255566994b26b8738d05b17f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/82ce6ef80231ef21255566994b26b8738d05b17f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/7aed811db43612752d85bb0c8157f4aed26d32d6/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/82ce6ef80231ef21255566994b26b8738d05b17f/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@7aed811](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/7aed811db43612752d85bb0c8157f4aed26d32d6)
+from [laurentperrinet/2026-07_intelligence-regard@82ce6ef](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/82ce6ef80231ef21255566994b26b8738d05b17f)
 on July 30, 2026.
 </em></small>
 
@@ -110,7 +110,7 @@ Comprendre ce mécanisme est crucial : cela permet de mieux appréhender le fonc
 La vision semble si naturelle : il suffit d’ouvrir les yeux pour percevoir le monde. Pourtant, derrière cette simplicité apparente se cache un mécanisme d’une complexité extraordinaire, dont les mystères intriguent les scientifiques depuis des siècles. Dès le XIe siècle, Ibn al-Haytham (ou Alhazen), mathématicien, physicien et médecin, posait les bases d’une théorie moderne de l’optique en expliquant comment la lumière traverse l’œil pour former une image sur la rétine. Plus tard, Léonard de Vinci s’en inspirera pour ses propres travaux. Ce processus commence par une fine couche de cellules située au fond de l’œil : la rétine. Elle capte la lumière focalisée par l’œil et la transforme, en quelques millisecondes, en signaux nerveux que le cerveau peut interpréter. Une particularité fascinante du système visuel est que cette organisation spatiale est préservée dans de nombreuses zones du cerveau : les neurones voisins dans une aire visuelle cérébrale correspondent à des points proches dans notre champ visuel.
 
 Or, la rétine ne traite pas uniformément tout ce que nous voyons. Elle accorde une attention particulière à une petite zone centrale appelée fovéa, entourée par la macula.
-Pour vous donner une idée, la macula couvre un champ visuel équivalent à la taille de votre pouce tendu à bout de bras. Pourtant, bien qu’elle ne représente qu’une infime partie de notre champ visuel (qui s’étend sur environ 180 degrés horizontalement et 120 degrés verticalement), un quart des fibres du nerf optique lui sont dédiées (voir FIGURE RETINE). Cette concentration de ressources au centre explique pourquoi nous percevons les détails et les couleurs avec une telle précision autour du point de fixation.
+Pour vous donner une idée, la macula couvre un champ visuel équivalent à la taille de votre pouce tendu à bout de bras. Pourtant, bien qu’elle ne représente qu’une infime partie de notre champ visuel qui est aussi large qu’un hémicycle, un quart des fibres du nerf optique lui sont dédiées (voir FIGURE RETINE). Cette concentration de ressources au centre explique pourquoi nous percevons les détails et les couleurs avec une telle précision autour du point de fixation.
 En effet, la macula est principalement composée de cônes, des cellules sensibles aux couleurs. Le reste de la rétine, en revanche, contient surtout des bâtonnets, qui captent surtout la lumière faible mais sont peu sensibles aux couleurs. Cela pose une énigme : si la majorité de notre champ visuel est presque aveugle aux couleurs, pourquoi notre perception du monde nous semble-t-elle uniforme et colorée, même en périphérie ? Notre regard est constamment en mouvement. En ce moment même, vos yeux se déplacent pour fixer ces mots, l’un après l’autre. 
 
 Cette spécialisation centrale de la rétine n’est pas propre à l’humain. On la retrouve chez de nombreux mammifères, bien que chaque espèce présente des adaptations uniques. Par exemple, chez le chat, les photorécepteurs sont plus concentrés le long de l’axe horizontal, tandis que chez le lapin ou la souris, leur répartition est presque uniforme. Certaines espèces vont encore plus loin : les faucons et certains dauphins possèdent dans chaque oeil une paire de fovéas, l’une pour une vision précise vers l’avant, l’autre pour une perception latérale optimisée. Chaque adaptation reflète les besoins spécifiques de l’espèce dans son environnement.

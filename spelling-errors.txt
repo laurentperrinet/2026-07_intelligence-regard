@@ -45,7 +45,7 @@ caractéristiques
 casques
 Castet
 Ceci
-Cela
+cela
 celle
 cellules
 centrale
@@ -54,11 +54,11 @@ Certaines
 certains
 cerveau
 ces
-C’est
+c’est
 cet
-Cette
+cette
 chacun
-chaque
+Chaque
 chercheur
 chez
 classiques
@@ -75,7 +75,7 @@ comportementales
 composée
 compréhension
 comprend
-comprendre
+Comprendre
 compte
 computationnelles
 concentre
@@ -124,7 +124,6 @@ déformée
 déformées
 dégénérescence
 dégradées
-degrés
 délétère
 délétères
 démontre
@@ -175,7 +174,6 @@ enjeu
 entoure
 entourée
 entre
-environ
 environnant
 environnement
 équivalent
@@ -220,7 +218,7 @@ globale
 grandes
 gravement
 Haytham
-horizontalement
+hémicycle
 humaine
 humaines
 Ibn
@@ -243,7 +241,7 @@ Intuitivement
 inventaire
 invisibilise
 involontaires
-je
+Je
 jouer
 jusqu’au
 Koric
@@ -283,7 +281,7 @@ L’outil
 lui
 lumière
 l’un
-L’une
+l’une
 l’utilisation
 macula
 maculaire
@@ -324,11 +322,11 @@ n’avons
 nerveux
 n’est
 neurones
-Neurosciences
+neurosciences
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nouveau
 nouveaux
 nouvel
@@ -420,6 +418,7 @@ qui
 qu’il
 quoi
 quotidienne
+qu’un
 qu’une
 rapidement
 réalité
@@ -461,7 +460,6 @@ semble
 s’en
 sensibles
 ses
-s’étend
 seulement
 siècle
 siècles
@@ -520,7 +518,6 @@ utilisant
 utilisons
 venir
 vers
-verticalement
 vieillissement
 Vinci
 virtuelle
