@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-08-25T07:39:00+00:00" />
-  <meta property="article:modified_time" content="2026-08-25T07:39:00+00:00" />
+  <meta name="dc.modified" content="2026-08-25T08:00:14+00:00" />
+  <meta property="article:modified_time" content="2026-08-25T08:00:14+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/92f3b180b81bb8c65bd7b536ce5a09b8df0d63eb/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/92f3b180b81bb8c65bd7b536ce5a09b8df0d63eb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/92f3b180b81bb8c65bd7b536ce5a09b8df0d63eb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/92f3b180b81bb8c65bd7b536ce5a09b8df0d63eb/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@92f3b18](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/92f3b180b81bb8c65bd7b536ce5a09b8df0d63eb)
+from [laurentperrinet/2026-07_intelligence-regard@186e548](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/186e54895278b281149d18c4583fe4501372991b)
 on August 25, 2026.
 </em></small>
 
@@ -134,9 +134,12 @@ Les pathologies rétiniennes n’affectent pas seulement la perception. Elles pe
 
 Pour comprendre le rôle de la rétinotopie dans la vision, la modélisation est un outil clé. Le principe est le suivant : nous construisons un système visuel artificiel qui reproduit au mieux les caractéristiques humaines. Nous modifions ensuite certains éléments pour observer leur rôle dans l’ensemble.
 
-En pratique, nous avons utilisé un modèle appelé ConvNeXt, un modèle de référence actuel en vision par ordinateur et dont les propriétés se rapprochent du système visuel humain. Ce réseau peut reconnaître et classer des images variées dans des catégories, comme « poisson rouge » ou « clavier ». Nous avons comparé ses performances sur des images classiques et sur des images transformées par la rétinotopie humaine. Un résultat notable apparaît. Le réseau conserve un niveau de performance élevé avec ces images comprimées et déformées [@doi:10.3390/vision10020017]. Il montre aussi de nouvelles capacités, comme la détection d’un animal camouflé dans une scène visuelle (cf FIGURE MODELE).
+En pratique, nous avons utilisé un modèle appelé ConvNeXt, un modèle de référence actuel en vision par ordinateur et dont les propriétés se rapprochent du système visuel humain. Ce réseau peut reconnaître et classer des images variées dans des catégories, comme « poisson rouge » ou « clavier ». Nous avons comparé ses performances sur des images classiques et sur des images transformées par la rétinotopie humaine. Un résultat notable apparaît. Le réseau conserve un niveau de performance élevé avec ces images comprimées et déformées [@doi:10.3390/vision10020017]. Il montre aussi de nouvelles capacités, comme la détection d’un animal camouflé dans une scène visuelle (cf @fig:modele).
 
 Cette capacité à localiser des objets ouvre de nouvelles perspectives, tant en IA qu’en neurosciences. En effet, l’usage des capteurs visuels augmente de façon exponentielle, des téléphones intelligents aux voitures connectées. Chaque capteur impose des traitements de plus en plus complexes. Les coûts énergétiques augmentent donc fortement. En se concentrant sur les pixels autour d’une zone d’intérêt, on peut réduire significativement les coûts de traitement. Cette approche est particulièrement utile pour les systèmes embarqués, comme les voitures autonomes. Ces approches peuvent aussi accélérer la réponse des systèmes, ce qui est crucial pour cette nouvelle génération de voitures.
+
+![
+**L'œil agit pour voir les objets.** Notre modele propose d'apprendre à anticiper les localisations dans l'image qui sont importantes pour réussir une tache donnée. Il consiste en un modele "Où?" qui prend une image naturelle et traite sa périphérie depuis un point de fixation central. Localisant la cible, il dirige son regard pour actionner le modèle "Quoi?" qui permet de détecter le léopard caché dans les herbes.](https://laurentperrinet.github.io/publication/jeremie-25-ccn/featured.jpg "What-Where"){#fig:modèle height=6cm .white}
 
 Cette voie de recherche ouvre aussi un nouvel axe en neurosciences de la vision. Notre perception paraît uniforme. Pourtant, elle est concentrée autour du point de fixation. En périphérie, les sensations sont plus floues et moins colorées. Comment détecter, dans cette zone floue, un point d’intérêt justifiant un déplacement du regard ? Cette question toujours en suspens révèle le lien étroit entre ce que voit la rétine et le système qui contrôle les mouvements des yeux. Elle encourage une nouvelle génération de modèles. Ces modèles ne doivent pas pas seulement les analyser passivement, mais pouvoir agir sur leur environnement. Or, cette capacité reste encore largement sous-exploitée dans l’IA actuelle.
 

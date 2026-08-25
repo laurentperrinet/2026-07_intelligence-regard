@@ -1,4 +1,5 @@
 accélérer
+actionner
 activement
 actuel
 actuelle
@@ -6,11 +7,13 @@ affecte
 affectent
 afin
 agir
+agit
 ailleurs
 Aix
 Alhazen
 alors
 altérée
+anticiper
 apparaissent
 apparaît
 apparemment
@@ -41,6 +44,7 @@ balayage
 bâtonnets
 besoin
 Bien
+caché
 camouflé
 capables
 capacité
@@ -59,16 +63,17 @@ celui
 centrale
 cependant
 cérébrales
-Certaines
+certaines
 certains
 cerveau
-ces
+Ces
 C’est
 Cet
 cette
-chaque
+Chaque
 chercheur
 chez
+cible
 classer
 classiques
 clé
@@ -87,7 +92,7 @@ complexité
 compliquent
 comportementales
 compréhension
-Comprendre
+comprendre
 comprimées
 computationnelles
 concentrant
@@ -97,6 +102,7 @@ concentrés
 cônes
 connectées
 conséquences
+consiste
 construisons
 contextes
 contient
@@ -114,7 +120,8 @@ couvre
 cruciale
 d’Alzheimer
 Dans
-d’autres
+d’apprendre
+D’autres
 décalage
 décisif
 d’éclairer
@@ -153,6 +160,7 @@ difficile
 d’intelligence
 d’intercaler
 d’intérêt
+dirige
 diriger
 disparaissent
 disparaît
@@ -165,6 +173,7 @@ d’objets
 doivent
 domaine
 donc
+donnée
 données
 dont
 d’ouvrir
@@ -236,6 +245,7 @@ gravement
 haut
 Haytham
 hémicycle
+herbes
 Heureusement
 homogène
 hors
@@ -244,6 +254,7 @@ humaine
 humaines
 Ibn
 illisibles
+importantes
 inégale
 informations
 innovantes
@@ -274,6 +285,7 @@ Lejla
 l’endroit
 l’ensemble
 Léonard
+léopard
 l’épauler
 lequel
 l’espace
@@ -289,6 +301,8 @@ l’impression
 l’intelligence
 l’interprétation
 L’objectif
+Localisant
+localisations
 localiser
 l’œil
 l’on
@@ -324,7 +338,7 @@ mettent
 mieux
 millisecondes
 miroir
-MODELE
+modele
 modèle
 modèles
 modélisation
@@ -358,7 +372,7 @@ optique
 ordinateur
 ordre
 ou
-où
+Où
 outil
 outils
 ouvre
@@ -391,7 +405,7 @@ pleinement
 plusieurs
 possèdent
 pouce
-pourquoi
+Pourquoi
 Pourtant
 poussé
 pouvoir
@@ -402,6 +416,7 @@ précision
 précocement
 prédateurs
 première
+prend
 privilégie
 probablement
 processus
@@ -465,6 +480,7 @@ rétiniennes
 rétinotopie
 rétrécit
 retrouve
+réussir
 révélant
 révèle
 révèlent
@@ -515,6 +531,7 @@ surtout
 suspens
 système
 systèmes
+tache
 tandis
 tant
 tard
