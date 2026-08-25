@@ -6,12 +6,14 @@ affecte
 affectent
 afin
 agir
+ailleurs
 Aix
 Alhazen
 alors
 altérée
 apparaissent
 apparaît
+apparamment
 apparente
 appelé
 appelée
@@ -26,11 +28,13 @@ atteintes
 attendues
 augmente
 augmentent
+auquel
 aussi
+Auteur
 autonomes
 autour
 avancées
-avec
+Avec
 avoir
 avons
 bâtonnets
@@ -60,7 +64,8 @@ certains
 cerveau
 ces
 C’est
-Cette
+Cet
+cette
 Chaque
 chercheur
 Chez
@@ -100,6 +105,7 @@ contrôle
 ConvNeXt
 correspondance
 couche
+couleur
 couleurs
 couplage
 coûts
@@ -107,7 +113,7 @@ couvre
 cruciale
 d’Alzheimer
 dans
-D’autres
+d’autres
 décalage
 décisif
 d’éclairer
@@ -118,6 +124,7 @@ dégénère
 dégénérescence
 dégrader
 délétère
+dépend
 déplacement
 déplacent
 depuis
@@ -127,6 +134,7 @@ Dès
 détails
 détecter
 détection
+d’être
 d’étudier
 deux
 développement
@@ -134,7 +142,10 @@ devenue
 deviennent
 devient
 diagnostiquer
+différemment
 différence
+différente
+différents
 difficile
 d’intelligence
 d’intérêt
@@ -198,6 +209,7 @@ fonctionnement
 formée
 formes
 fortement
+fovea
 fovéa
 fovéas
 fragiliser
@@ -212,6 +224,7 @@ haut
 Haytham
 hémicycle
 Heureusement
+hors
 humaine
 humaines
 Ibn
@@ -246,6 +259,7 @@ l’endroit
 l’ensemble
 Léonard
 l’épauler
+lequel
 l’espace
 lettres
 leur
@@ -259,6 +273,7 @@ l’intelligence
 l’interprétation
 L’objectif
 localiser
+L’oeil
 l’œil
 l’on
 l’optique
@@ -309,11 +324,11 @@ naturelle
 nerveux
 n’est
 neurones
-neurosciences
+Neurosciences
 niveau
 nombreuses
 nombreux
-notre
+Notre
 nouvel
 nouvelle
 nouvelles
@@ -321,6 +336,7 @@ novatrices
 objets
 oculaires
 oculomoteur
+oeil
 œil
 optimisée
 optique
@@ -333,6 +349,7 @@ outils
 ouvre
 paradoxe
 paraît
+paramètres
 particulièrement
 partie
 partielles
@@ -342,6 +359,7 @@ passionnantes
 pathologies
 pensons
 percevoir
+percevons
 périphérie
 périphérique
 permet
@@ -397,7 +415,9 @@ rééducation
 référence
 reflète
 regardait
+regarde
 regardez
+réglant
 remarquable
 remodelait
 remplacer
@@ -431,16 +451,19 @@ scène
 scientifiques
 selon
 semble
+semblent
 sensibles
 ses
 s’étendre
 seulement
+s’évanonouie
 sévères
 s’explique
 siècle
 siècles
 signaux
 significativement
+similaires
 simplement
 simplicité
 s’inspire
@@ -486,7 +509,7 @@ transforme
 transformées
 travaux
 travers
-une
+Une
 uniforme
 Université
 utile
