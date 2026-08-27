@@ -1,5 +1,5 @@
 ---
-title: 'L''intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée'
+title: 'L''intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée'
 keywords:
 - perception visuelle
 - rétinotopie
@@ -18,15 +18,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
-  <meta name="citation_title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
-  <meta property="og:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
-  <meta property="twitter:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit un monde cohérent à partir d’une image déformée" />
+  <meta name="dc.title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
+  <meta name="citation_title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
+  <meta property="og:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
+  <meta property="twitter:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-08-25T08:00:14+00:00" />
-  <meta property="article:modified_time" content="2026-08-25T08:00:14+00:00" />
+  <meta name="dc.modified" content="2026-08-27T05:42:40+00:00" />
+  <meta property="article:modified_time" content="2026-08-27T05:42:40+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/186e54895278b281149d18c4583fe4501372991b/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@186e548](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/186e54895278b281149d18c4583fe4501372991b)
-on August 25, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@a34f9c7](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/a34f9c73e40c7daf0d3dc02e02902d324f172aec)
+on August 27, 2026.
 </em></small>
 
 Published: July 8, 2026
