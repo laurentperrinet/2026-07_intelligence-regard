@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-08-27T05:42:40+00:00" />
-  <meta property="article:modified_time" content="2026-08-27T05:42:40+00:00" />
+  <meta name="dc.modified" content="2026-08-28T11:58:08+00:00" />
+  <meta property="article:modified_time" content="2026-08-28T11:58:08+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e83d15815556534e053b6fefe4687d6e32ff8193/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e83d15815556534e053b6fefe4687d6e32ff8193/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e83d15815556534e053b6fefe4687d6e32ff8193/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/a34f9c73e40c7daf0d3dc02e02902d324f172aec/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/e83d15815556534e053b6fefe4687d6e32ff8193/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@a34f9c7](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/a34f9c73e40c7daf0d3dc02e02902d324f172aec)
-on August 27, 2026.
+from [laurentperrinet/2026-07_intelligence-regard@e83d158](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/e83d15815556534e053b6fefe4687d6e32ff8193)
+on August 28, 2026.
 </em></small>
 
 Published: July 8, 2026
@@ -110,16 +110,19 @@ Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intui
 
 Comprendre ce mécanisme est un enjeu majeur. Il éclaire sur le fonctionnement de la vision. Il aide aussi à mieux diagnostiquer certaines maladies oculaires. Il inspire enfin des systèmes d’intelligence artificielle plus sobres en énergie. En tant que chercheur en neurosciences computationnelles, j’étudie comment le cerveau assemble des informations visuelles partielles pour produire une perception cohérente. Voici ce que les recherches récentes révèlent sur le rôle décisif de l’organisation spatiale de la rétine.
 
+![
+**L'œil voit différemment dans et hors la fovéa.** Ces différents points semblent similaires pourtant celui sur lequel on pose son œil a une couleur différente, qui s'évanonouie lorsque l'on regarde ailleurs. Cet effet dépend des [paramètres réglant la couleur des points et du fond](https://laurentperrinet.github.io/sciblog/posts/2026-07-31-pale-blue-dots.html) et auxquelles la fovéa est particulièrement plus sensible par rapport à la périphérie.](https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots_random.svg?sanitize=true "Pale blue dots"){#fig:pale-blue height=6cm .white}
+
 ## Ce que la rétine voit vraiment
 
 La vision semble si naturelle. Il suffit d’ouvrir les yeux pour percevoir le monde. Pourtant, derrière cette apparente simplicité se cache un mécanisme d’une grande complexité qui intrigue les scientifiques depuis des siècles. Dès le XIe siècle, Ibn al-Haytham, aussi appelé Alhazen, pose les bases d’une théorie moderne de l’optique. Il montre comment la lumière traverse l’œil pour former une image sur la rétine. Plus tard, Léonard de Vinci s’inspirera de ces travaux pour ses propres recherches sur la vision. Le processus visuel commence dans une fine couche de cellules au fond de l’œil : la rétine. Elle capte la lumière focalisée par l’œil. En quelques millisecondes, elle la transforme en signaux nerveux que le cerveau peut interpréter. Une propriété remarquable du système visuel est la conservation de cette organisation spatiale dans plusieurs aires cérébrales. Dans le cerveau, les neurones voisins traitent des zones voisines de ce que nous voyons. Cette correspondance entre le cerveau et le champ visuel, appelée *rétinotopie*, est une clé de notre perception.
 
-La rétine ne traite cependant pas toute l’image de manière uniforme. En ce moment même, vos yeux se déplacent pour fixer ces mots l’un après l’autre. Selon l’endroit où vous regardez, certaines informations deviennent visibles, tandis que d’autres disparaissent (voir Figure @fig:pale-blue). La vision privilégie une petite zone centrale, la fovéa, située dans la macula. Pour donner un ordre de grandeur, la macula couvre un angle visuel proche de celui d’un pouce tendu à bout de bras. Bien qu’elle ne représente qu’une petite portion du champ visuel qui est lui large comme un hémicycle, elle mobilise pourtant environ un quart des fibres du nerf optique (voir FIGURE RETINE). Cette concentration de ressources explique la précision des détails et des couleurs autour du point de fixation. Cette différence s’explique simplement : la macula contient surtout des cônes, des cellules sensibles aux couleurs. La périphérie rétinienne contient surtout des bâtonnets, plus efficaces en faible lumière mais moins sensibles aux couleurs. Un paradoxe apparaît alors : si la périphérie distingue mal les couleurs, pourquoi notre perception du monde paraît-elle globalement uniforme et colorée ? 
+La rétine ne traite cependant pas toute l’image de manière uniforme. En ce moment même, vos yeux se déplacent pour fixer ces mots l’un après l’autre. Selon l’endroit où vous regardez, certaines informations deviennent visibles, tandis que d’autres disparaissent (voir Figure @fig:pale-blue). La vision privilégie une petite zone centrale, la fovéa, située dans la macula. Pour donner un ordre de grandeur, la macula couvre un angle visuel proche de celui d’un pouce tendu à bout de bras. Bien qu’elle ne représente qu’une petite portion du champ visuel qui est lui large comme un hémicycle, elle mobilise pourtant environ un quart des fibres du nerf optique (voir Figure @fig:retino). Cette concentration de ressources explique la précision des détails et des couleurs autour du point de fixation. Cette différence s’explique simplement : la macula contient surtout des cônes, des cellules sensibles aux couleurs. La périphérie rétinienne contient surtout des bâtonnets, plus efficaces en faible lumière mais moins sensibles aux couleurs. Un paradoxe apparaît alors : si la périphérie distingue mal les couleurs, pourquoi notre perception du monde paraît-elle globalement uniforme et colorée ? 
 
 Explorons la rétinotopie dans d'autres espèces. En effet, cette spécialisation centrale de la rétine n’est pas propre à l’humain. On la retrouve chez de nombreux mammifères, avec des adaptations spécifiques [@doi:10.1146/annurev-vision-091517-034122]. Chez le chat, les photorécepteurs sont fortement concentrés le long de l’axe horizontal ; cette organisation favorise des mouvements oculaires latéraux rapides, indispensables pour suivre des proies qui filent. Chez le lapin ou la souris, la répartition des cellules photoréceptrices est plus homogène, ce qui soutient une exploration continue du champ périphérique et recentrer le regard sur des objets en mouvement comme des prédateurs et fuir pour échapper au chat! Certaines espèces ont poussé cette spécialisation encore plus loin : le faucon et certains dauphins possèdent deux fovéas par œil, l’une dédiée à une vision frontale très précise et l’autre à une perception latérale optimisée. Cette double fovéa permet d’intercaler, à chaque instant, un point de fixation détaillé et un balayage latéral du champ par un mouvement des yeux. Elle reflète les exigences de leurs niches écologiques et le besoin constant de réorienter le regard.
 
 ![
-**L'œil voit différemment dans et hors la fovea.** Ces différents points semblent similaires pourtant celui sur lequel on pose son œil a une couleur différente, qui s'évanonouie lorsque l'on regarde ailleurs. Cet effet dépend des [paramètres réglant la couleur des points et du fond](https://laurentperrinet.github.io/sciblog/posts/2026-07-31-pale-blue-dots.html) et auxquelles la fovea est particulièrement plus sensible par rapport à la périphérie.](https://raw.githubusercontent.com/laurentperrinet/sciblog/refs/heads/master/files/2026-07-31-pale-blue-dots_random.svg?sanitize=true "Pale blue dots"){#fig:pale-blue height=6cm .white}
+**Le système visuel déforme l'image.** Une image est captée par l'oeil différentiellement autour du point de fixation. En effet elle est projetée sur la rétine (dont on voit ici une vue médicale qui souligne en particulier la vasculature et le fovéa), avant d'être projetée sur le cortex visuel primaire en représentant avec plus de détails les parties de l'image proches du point de fixation. À noter que chaque hémichamp (représenté en bleu pour la partie gauche de la scène et rouge pour la partie droite) est traité dans un hemisphère différent. ](./images/2026-08-28_retino.jpg "retino"){#fig:retino height=6cm .white}
 
 
 ## Pourquoi comprendre la rétinotopie est cruciale en clinique
