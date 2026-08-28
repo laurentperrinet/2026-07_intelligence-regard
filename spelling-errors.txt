@@ -38,7 +38,7 @@ autour
 auxquelles
 avancées
 avant
-Avec
+avec
 avoir
 avons
 balayage
@@ -74,7 +74,7 @@ Cet
 cette
 Chaque
 chercheur
-chez
+Chez
 cible
 classer
 classiques
@@ -121,7 +121,7 @@ coûts
 couvre
 cruciale
 d’Alzheimer
-dans
+Dans
 d’apprendre
 D’autres
 décalage
@@ -194,7 +194,7 @@ efficaces
 efficacité
 éléments
 élevé
-Elle
+elle
 Elles
 embarqués
 énergétiques
@@ -313,7 +313,7 @@ Localisant
 localisations
 localiser
 l’oeil
-l’œil
+L’œil
 l’on
 l’optique
 l’organisation
@@ -363,12 +363,12 @@ naturelle
 nerveux
 n’est
 neurones
-Neurosciences
+neurosciences
 niveau
 nombreuses
 nombreux
 noter
-notre
+Notre
 nouvel
 nouvelle
 nouvelles
@@ -417,7 +417,7 @@ pleinement
 plusieurs
 possèdent
 pouce
-pourquoi
+Pourquoi
 pourtant
 poussé
 pouvoir
@@ -450,7 +450,7 @@ qu’elle
 quelques
 qu’en
 qui
-quoi
+Quoi
 qu’on
 quotidienne
 qu’une
@@ -573,7 +573,7 @@ transformées
 travaux
 travers
 très
-Une
+une
 uniforme
 Université
 utile
