@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2026-07-08" />
   <meta name="citation_publication_date" content="2026-07-08" />
   <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-08-28T13:43:04+00:00" />
-  <meta property="article:modified_time" content="2026-08-28T13:43:04+00:00" />
+  <meta name="dc.modified" content="2026-08-28T14:46:52+00:00" />
+  <meta property="article:modified_time" content="2026-08-28T14:46:52+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/3574b826373190e2ba422bc6802fe67919242ec6/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/3574b826373190e2ba422bc6802fe67919242ec6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/3574b826373190e2ba422bc6802fe67919242ec6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/08befaab8622518fee996b377dacc1b28df96640/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/08befaab8622518fee996b377dacc1b28df96640/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/08befaab8622518fee996b377dacc1b28df96640/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/3574b826373190e2ba422bc6802fe67919242ec6/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/08befaab8622518fee996b377dacc1b28df96640/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@3574b82](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/3574b826373190e2ba422bc6802fe67919242ec6)
+from [laurentperrinet/2026-07_intelligence-regard@08befaa](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/08befaab8622518fee996b377dacc1b28df96640)
 on August 28, 2026.
 </em></small>
 
@@ -104,7 +104,7 @@ Published: July 8, 2026
 
 
 
-*Nous avons l’impression de percevoir un monde continu, net et coloré. Pourtant, l’image captée par la rétine n'est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comprendre ce processus permet de mieux comprendre et diagnostiquer certaines pathologies visuelles et inspire des approches plus sobres en intelligence artificielle.*
+*En général, notre monde visuel est net et coloré, il se déploie continument devant nous comme un écran de cinéma panoramique.  Pourtant, l’image captée par la rétine n'est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comprendre ce processus permet de mieux comprendre et diagnostiquer certaines pathologies visuelles et inspire des approches plus sobres en intelligence artificielle.*
 
 Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intuitivement, nous pensons que notre vision reflète fidèlement le monde. Pourtant, l’image formée sur la rétine est loin d'être uniforme! Au centre, la précision est maximale. En périphérie, la vision devient floue et moins sensible aux couleurs. Comment le cerveau parvient-il alors à reconstruire la scène cohérente et apparemment uniforme que nous percevons ?
 
@@ -122,7 +122,7 @@ La rétine ne traite cependant pas toute l’image de manière uniforme. En ce m
 Explorons la rétinotopie dans d'autres espèces. En effet, cette spécialisation centrale de la rétine n’est pas propre à l’humain. On la retrouve chez de nombreux mammifères, avec des adaptations spécifiques [@doi:10.1146/annurev-vision-091517-034122]. Chez le chat, les photorécepteurs sont fortement concentrés le long de l’axe horizontal ; cette organisation favorise des mouvements oculaires latéraux rapides, indispensables pour suivre des proies qui filent. Chez le lapin ou la souris, la répartition des cellules photoréceptrices est plus homogène, ce qui soutient une exploration continue du champ périphérique et recentrer le regard sur des objets en mouvement comme des prédateurs et fuir pour échapper au chat! Certaines espèces ont poussé cette spécialisation encore plus loin : le faucon et certains dauphins possèdent deux fovéas par œil, l’une dédiée à une vision frontale très précise et l’autre à une perception latérale optimisée. Cette double fovéa permet d’intercaler, à chaque instant, un point de fixation détaillé et un balayage latéral du champ par un mouvement des yeux. Elle reflète les exigences de leurs niches écologiques et le besoin constant de réorienter le regard.
 
 ![
-**Le système visuel déforme l'image.** Une image est captée par l'oeil différentiellement autour du point de fixation. En effet elle est projetée sur la rétine (dont on voit ici une vue médicale qui souligne en particulier la vasculature et le fovéa), avant d'être projetée sur le cortex visuel primaire en représentant avec plus de détails les parties de l'image proches du point de fixation. À noter que chaque hémichamp (représenté en bleu pour la partie gauche de la scène et rouge pour la partie droite) est traité dans un hemisphère différent. ](./images/2026-08-28_retino.jpg "retino"){#fig:retino .white}
+**Le système visuel déforme l'image.** Une image est captée par l'œil différentiellement autour du point de fixation. En effet elle est projetée sur la rétine (dont on voit ici une vue médicale qui souligne en particulier la vasculature et le fovéa), avant d'être conduite dans le cerveau vers les aires visuelles. Là, l'image y est représentée de façon déformée avec plus de détails les parties de l'image proches du point de fixation, comme illustré sur cette modélisation de la transformation de l'image du chat. À noter que chaque hémichamp (représenté en bleu pour la partie gauche de la scène et rouge pour la partie droite) est traité dans un hemisphère différent. ](./images/2026-08-28_retino.jpg "retino"){#fig:retino}
 
 
 ## Pourquoi comprendre la rétinotopie est cruciale en clinique
@@ -142,7 +142,7 @@ En pratique, nous avons utilisé un modèle appelé ConvNeXt, un modèle de réf
 Cette capacité à localiser des objets ouvre de nouvelles perspectives, tant en IA qu’en neurosciences. En effet, l’usage des capteurs visuels augmente de façon exponentielle, des téléphones intelligents aux voitures connectées. Chaque capteur impose des traitements de plus en plus complexes. Les coûts énergétiques augmentent donc fortement. En se concentrant sur les pixels autour d’une zone d’intérêt, on peut réduire significativement les coûts de traitement. Cette approche est particulièrement utile pour les systèmes embarqués, comme les voitures autonomes. Ces approches peuvent aussi accélérer la réponse des systèmes, ce qui est crucial pour cette nouvelle génération de voitures.
 
 ![
-**L'œil agit pour voir les objets.** Notre modele propose d'apprendre à anticiper les localisations dans l'image qui sont importantes pour réussir une tache donnée. Il consiste en un modele "Où?" qui prend une image naturelle et traite sa périphérie depuis un point de fixation central. Localisant la cible, il dirige son regard pour actionner le modèle "Quoi?" qui permet de détecter le léopard caché dans les herbes.](https://laurentperrinet.github.io/publication/jeremie-25-ccn/featured.jpg "What-Where"){#fig:modèle .white}
+**L'œil agit pour voir les objets.** Notre modele propose d'apprendre à anticiper les localisations dans l'image qui sont importantes pour réussir une tache donnée. Il consiste en un modele "Où?" qui prend une image naturelle et traite sa périphérie depuis un point de fixation central. Localisant la cible, il dirige son regard pour actionner le modèle "Quoi?" qui permet de détecter le léopard caché dans les herbes.](https://laurentperrinet.github.io/publication/jeremie-25-ccn/featured.jpg "What-Where"){#fig:modèle}
 
 Cette voie de recherche ouvre aussi un nouvel axe en neurosciences de la vision. Notre perception paraît uniforme. Pourtant, elle est concentrée autour du point de fixation. En périphérie, les sensations sont plus floues et moins colorées. Comment détecter, dans cette zone floue, un point d’intérêt justifiant un déplacement du regard ? Cette question toujours en suspens révèle le lien étroit entre ce que voit la rétine et le système qui contrôle les mouvements des yeux. Elle encourage une nouvelle génération de modèles. Ces modèles ne doivent pas pas seulement les analyser passivement, mais pouvoir agir sur leur environnement. Or, cette capacité reste encore largement sous-exploitée dans l’IA actuelle.
 
