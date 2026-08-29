@@ -65,16 +65,16 @@ celui
 centrale
 cependant
 cérébrales
-certaines
+Certaines
 certains
 cerveau
 ces
 C’est
 Cet
 Cette
-chaque
+Chaque
 chercheur
-Chez
+chez
 cible
 cinéma
 classer
@@ -95,7 +95,7 @@ complexité
 compliquent
 comportementales
 compréhension
-comprendre
+Comprendre
 comprimées
 computationnelles
 concentrant
@@ -125,7 +125,7 @@ cruciale
 d’Alzheimer
 dans
 d’apprendre
-d’autres
+D’autres
 décalage
 décisif
 d’éclairer
@@ -200,7 +200,7 @@ efficaces
 efficacité
 éléments
 élevé
-elle
+Elle
 Elles
 embarqués
 énergétiques
@@ -320,7 +320,7 @@ L’objectif
 Localisant
 localisations
 localiser
-l’œil
+L’œil
 l’on
 l’optique
 l’organisation
@@ -370,7 +370,7 @@ naturelle
 nerveux
 n’est
 neurones
-neurosciences
+Neurosciences
 niveau
 nombreuses
 nombreux

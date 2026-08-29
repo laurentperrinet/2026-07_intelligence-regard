@@ -256,6 +256,7 @@ content/10.content.md:12:une
 content/10.content.md:12:une
 content/10.content.md:12:une
 content/10.content.md:12:Une
+content/10.content.md:12:vinci
 content/10.content.md:12:Vinci
 content/10.content.md:12:visuel
 content/10.content.md:12:visuel
