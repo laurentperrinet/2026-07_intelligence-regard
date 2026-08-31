@@ -38,7 +38,7 @@ autour
 auxquelles
 avancées
 avant
-avec
+Avec
 avoir
 avons
 balayage
@@ -71,7 +71,7 @@ cerveau
 ces
 C’est
 Cet
-Cette
+cette
 Chaque
 chercheur
 chez
@@ -200,7 +200,7 @@ efficaces
 efficacité
 éléments
 élevé
-Elle
+elle
 Elles
 embarqués
 énergétiques
@@ -370,12 +370,12 @@ naturelle
 nerveux
 n’est
 neurones
-Neurosciences
+neurosciences
 niveau
 nombreuses
 nombreux
 noter
-notre
+Notre
 nouvel
 nouvelle
 nouvelles
@@ -425,8 +425,8 @@ pleinement
 plusieurs
 possèdent
 pouce
-Pourquoi
-pourtant
+pourquoi
+Pourtant
 poussé
 pouvoir
 praticien
