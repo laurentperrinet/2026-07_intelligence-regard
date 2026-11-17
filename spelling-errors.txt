@@ -9,6 +9,7 @@ afin
 agir
 agit
 ailleurs
+Ainsi
 Aix
 algorithmes
 Alhazen
@@ -22,6 +23,7 @@ apparente
 appelle
 appelé
 appelée
+appris
 approche
 approches
 après
@@ -40,7 +42,7 @@ autres
 auxquels
 avancées
 avant
-Avec
+avec
 avoir
 avons
 balayage
@@ -66,13 +68,13 @@ cellules
 celui
 centrale
 cependant
-certaines
+Certaines
 certains
 cerveau
-ces
+Ces
 Cet
 cette
-chaque
+Chaque
 chercheur
 chez
 cible
@@ -119,6 +121,7 @@ couleurs
 couplage
 couvre
 coûts
+créé
 cérébrales
 cônes
 C’est
@@ -156,7 +159,7 @@ donnée
 données
 dont
 droite
-Dès
+dès
 décalage
 décisif
 décrite
@@ -180,7 +183,7 @@ détection
 développement
 d’Alzheimer
 d’apprendre
-d’autres
+D’autres
 d’intelligence
 d’intercaler
 d’intérêt
@@ -209,6 +212,7 @@ environ
 environnement
 errance
 espèces
+Etienne
 exemple
 exemples
 explique
@@ -236,6 +240,7 @@ fortement
 fovéa
 fovéas
 fragiliser
+Friche
 frontale
 fuir
 garde
@@ -360,7 +365,7 @@ même
 naturelle
 nerveux
 neurones
-Neurosciences
+neurosciences
 niveau
 nombreuses
 nombreux
@@ -411,11 +416,12 @@ photorécepteurs
 photoréceptrices
 piloté
 placés
+plasticien
 pleinement
 plusieurs
 possèdent
 pouce
-pourquoi
+Pourquoi
 pourtant
 poussé
 pouvoir
@@ -480,6 +486,7 @@ reste
 retentissement
 retino
 retrouve
+Rey
 riche
 réalité
 récentes
@@ -575,7 +582,7 @@ très
 tâche
 téléphones
 tôt
-une
+Une
 uniforme
 uniformément
 Université
