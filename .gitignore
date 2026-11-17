@@ -15,6 +15,7 @@ ci/cache
 build/pandoc/filters/spellcheck.lua
 
 # Python
+.venv/
 __pycache__/
 *.pyc
 
