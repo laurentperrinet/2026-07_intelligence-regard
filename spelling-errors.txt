@@ -76,7 +76,7 @@ Cet
 cette
 Chaque
 chercheur
-chez
+Chez
 cible
 cinéma
 classer
@@ -96,7 +96,7 @@ complexité
 compliquent
 complément
 comportementales
-comprendre
+Comprendre
 comprimées
 compréhension
 computationnelles
@@ -125,7 +125,7 @@ créé
 cérébrales
 cônes
 C’est
-dans
+Dans
 depuis
 derrière
 des
@@ -140,13 +140,13 @@ différemment
 différence
 différent
 différente
+différentes
 différentiellement
-différents
 dirige
 diriger
 disparaissent
-disparaitre
 disparaît
+disparaître
 disponibles
 dispositifs
 distingue
@@ -159,7 +159,7 @@ donnée
 données
 dont
 droite
-dès
+Dès
 décalage
 décisif
 décrite
@@ -183,7 +183,7 @@ détection
 développement
 d’Alzheimer
 d’apprendre
-D’autres
+d’autres
 d’intelligence
 d’intercaler
 d’intérêt
@@ -212,7 +212,6 @@ environ
 environnement
 errance
 espèces
-Etienne
 exemple
 exemples
 explique
@@ -283,13 +282,13 @@ jusqu’aux
 justifiant
 j’étudie
 Koric
+laquelle
 largement
 latéral
 latérale
 latéraux
 laurentperrinet
 Lejla
-lequel
 lettres
 leur
 leurs
@@ -332,6 +331,7 @@ maculaire
 Mairot
 mais
 majeur
+majoritairement
 mal
 maladie
 malvoyance
@@ -362,6 +362,7 @@ méconnaissance
 méconnues
 médicale
 même
+naturel
 naturelle
 nerveux
 neurones
@@ -409,7 +410,6 @@ permet
 permettent
 Perrinet
 perturbée
-perçue
 peut
 peuvent
 photorécepteurs
@@ -453,7 +453,7 @@ périphérique
 Quand
 quelques
 qui
-Quoi
+quoi
 quotidienne
 qu’elle
 qu’en
@@ -514,8 +514,8 @@ rôle
 saccades
 scientifiques
 scène
+secondes
 Selon
-semblant
 semble
 semblent
 sensibles
@@ -550,6 +550,7 @@ suivi
 suivre
 supérieure
 sur
+surprenante
 surtout
 suspens
 système
@@ -582,7 +583,7 @@ très
 tâche
 téléphones
 tôt
-Une
+une
 uniforme
 uniformément
 Université
@@ -618,6 +619,8 @@ vraiment
 vu
 vue
 yeux
+zéro
+Étienne
 échapper
 éclaire
 écologiques
@@ -626,6 +629,7 @@ yeux
 énergie
 énergétiquement
 énergétiques
+étrange
 étroit
 étroitement
 études
