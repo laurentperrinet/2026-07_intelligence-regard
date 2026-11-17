@@ -1,4 +1,3 @@
-accélérer
 actionner
 activement
 actuel
@@ -9,6 +8,7 @@ afin
 agir
 agit
 ailleurs
+ainsi
 Aix
 algorithmes
 Alhazen
@@ -25,7 +25,6 @@ appelé
 appelée
 appris
 approche
-approches
 après
 artificiel
 artificielle
@@ -42,7 +41,7 @@ autres
 auxquels
 avancées
 avant
-avec
+Avec
 avoir
 avons
 balayage
@@ -69,15 +68,15 @@ cellules
 celui
 centrale
 cependant
-certaines
+Certaines
 certains
 cerveau
 ces
 Cet
 Cette
-Chaque
+chaque
 chercheur
-Chez
+chez
 cible
 cinéma
 classer
@@ -94,12 +93,11 @@ comme
 comparé
 complexe
 complexité
-compliquent
+complique
 complément
 comportementales
 comprendre
 comprimées
-compréhension
 computationnelles
 concentrant
 concentre
@@ -112,7 +110,6 @@ construisons
 conséquences
 contextes
 contient
-contraire
 contrôle
 ConvNeXt
 correspondance
@@ -128,7 +125,7 @@ cônes
 C’est
 dans
 densité
-depuis
+Depuis
 derrière
 des
 deux
@@ -161,8 +158,7 @@ donnée
 données
 dont
 droite
-Dès
-décalage
+dès
 décisif
 décrite
 dédiée
@@ -183,6 +179,7 @@ détails
 détecter
 détection
 développement
+d’accélérer
 d’Alzheimer
 d’apprendre
 d’autres
@@ -201,7 +198,7 @@ effet
 efficace
 efficaces
 efficacité
-elle
+Elle
 Elles
 embarqués
 enfin
@@ -239,7 +236,6 @@ formes
 formée
 fortement
 fovéa
-fragiliser
 Friche
 frontale
 fuir
@@ -271,6 +267,7 @@ illustré
 importantes
 informations
 innovantes
+inspirera
 Institut
 insu
 intelligentes
@@ -326,7 +323,7 @@ l’une
 l’usage
 l’âge
 l’épauler
-L’œil
+l’œil
 macula
 maculaire
 Mairot
@@ -360,7 +357,6 @@ mouvement
 mouvements
 mène
 mécanisme
-méconnaissance
 méconnues
 médicale
 même
@@ -391,7 +387,7 @@ ou
 outil
 outils
 ouvre
-Où
+où
 panoramique
 paradoxe
 paramètres
@@ -416,7 +412,6 @@ perturbée
 peut
 peuvent
 photorécepteurs
-photoréceptrices
 piloté
 placés
 plasticien
@@ -494,9 +489,10 @@ réalité
 récentes
 réduire
 référence
+région
 réglant
 réorienter
-répartition
+répartitionest
 réponse
 réponses
 réseau
@@ -557,9 +553,10 @@ surtout
 suspens
 système
 systèmes
+sécurité
 sévères
+s’en
 s’explique
-s’inspirera
 s’étendre
 tandis
 tant
