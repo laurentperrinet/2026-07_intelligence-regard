@@ -67,6 +67,25 @@ Because the build process is dependent on having the appropriate version of the 
 it is necessary to use the version specified in `environment.yml`.
 The latest `manubot` release on PyPI may not be compatible with the latest version of this rootstock repository.
 
+## Local build on Apple Silicon (uv, no conda)
+
+The pinned `pandoc=2.19.2` has no native arm64 macOS binary (the conda-forge `osx-arm64` package ships an x86_64 binary, which needs Rosetta),
+and the `pandoc-fignos`/`eqnos`/`tablenos` filters reject pandoc 3.
+[`build-local.sh`](build-local.sh) therefore builds with Homebrew's pandoc 3 and swaps those filters for
+[`pandoc-crossref`](https://lierdakil.github.io/pandoc-crossref/), which reads the same `{#fig:label}` / `@fig:label` syntax:
+
+```sh
+brew install uv pandoc pandoc-crossref pango   # once
+BUILD_PDF=false bash build/build-local.sh      # HTML only (fast)
+bash build/build-local.sh                      # HTML + PDF (WeasyPrint)
+```
+
+On first use, the script creates `.venv` from [`requirements-local.txt`](requirements-local.txt)
+(the pip packages of `environment.yml`, with `panflute` and `pydyf` adjusted for pandoc 3 and WeasyPrint 53).
+It sets `PANDOC_DATA_DIR=build/pandoc-local`, whose `common.yaml` replaces the xnos filters;
+the other defaults files are symlinks to [`pandoc/defaults`](pandoc/defaults).
+CI builds are unaffected.
+
 ## Building PDFs
 
 If Docker is available, `build.sh` uses the [Athena](https://www.athenapdf.com/) [Docker image](https://hub.docker.com/r/arachnysdocker/athenapdf) to build the PDF.
