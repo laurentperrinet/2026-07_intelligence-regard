@@ -38,7 +38,7 @@ autour
 auxquelles
 avancées
 avant
-Avec
+avec
 avoir
 avons
 balayage
@@ -64,15 +64,15 @@ cellules
 celui
 centrale
 cependant
-certaines
+Certaines
 certains
 cerveau
-Ces
+ces
 Cet
-Cette
+cette
 Chaque
 chercheur
-Chez
+chez
 cible
 cinéma
 classer
@@ -317,7 +317,7 @@ l’une
 l’usage
 l’âge
 l’épauler
-l’œil
+L’œil
 macula
 maculaire
 Mairot
@@ -411,7 +411,7 @@ plusieurs
 possèdent
 pouce
 Pourquoi
-pourtant
+Pourtant
 poussé
 pouvoir
 praticien
@@ -442,7 +442,7 @@ périphérique
 Quand
 quelques
 qui
-Quoi
+quoi
 quotidienne
 qu’elle
 qu’en
@@ -500,7 +500,7 @@ rôle
 saccades
 scientifiques
 scène
-Selon
+selon
 semble
 semblent
 sensibles
@@ -567,7 +567,7 @@ travers
 très
 téléphones
 tôt
-une
+Une
 uniforme
 Université
 utile

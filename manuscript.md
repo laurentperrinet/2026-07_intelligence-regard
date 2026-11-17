@@ -8,7 +8,7 @@ keywords:
 - intelligence artificielle
 - modélisation
 lang: fr-FR
-date-meta: '2026-07-08'
+date-meta: '2026-11-17'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -22,11 +22,11 @@ header-includes: |
   <meta name="citation_title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
   <meta property="og:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
   <meta property="twitter:title" content="L&#39;intelligence du regard : comment le cerveau reconstruit la vision à partir d’une image déformée" />
-  <meta name="dc.date" content="2026-07-08" />
-  <meta name="citation_publication_date" content="2026-07-08" />
-  <meta property="article:published_time" content="2026-07-08" />
-  <meta name="dc.modified" content="2026-11-17T15:40:40+00:00" />
-  <meta property="article:modified_time" content="2026-11-17T15:40:40+00:00" />
+  <meta name="dc.date" content="2026-11-17" />
+  <meta name="citation_publication_date" content="2026-11-17" />
+  <meta property="article:published_time" content="2026-11-17" />
+  <meta name="dc.modified" content="2026-11-17T15:51:24+00:00" />
+  <meta property="article:modified_time" content="2026-11-17T15:51:24+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ac6993ccecf33ce9f4f0a9d57c1c2f595ab77ef5/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ac6993ccecf33ce9f4f0a9d57c1c2f595ab77ef5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ac6993ccecf33ce9f4f0a9d57c1c2f595ab77ef5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/88edf40777e4eeb2aa2e99644d39efe9c5aa6f35/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/88edf40777e4eeb2aa2e99644d39efe9c5aa6f35/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/88edf40777e4eeb2aa2e99644d39efe9c5aa6f35/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,13 +66,12 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ac6993ccecf33ce9f4f0a9d57c1c2f595ab77ef5/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/88edf40777e4eeb2aa2e99644d39efe9c5aa6f35/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@ac6993c](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/ac6993ccecf33ce9f4f0a9d57c1c2f595ab77ef5)
+from [laurentperrinet/2026-07_intelligence-regard@88edf40](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/88edf40777e4eeb2aa2e99644d39efe9c5aa6f35)
 on November 17, 2026.
 </em></small>
 
-Published: July 8, 2026
 
 
 ## Auteur
