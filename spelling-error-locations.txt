@@ -1122,6 +1122,7 @@ content/10.content.md:41:étroit
 content/10.content.md:43:cela
 content/10.content.md:43:comprendre
 content/10.content.md:43:l’intelligence
+content/10.content.md:45:avec
 content/10.content.md:45:avons
 content/10.content.md:45:capte
 content/10.content.md:45:celle
@@ -1133,10 +1134,12 @@ content/10.content.md:45:dans
 content/10.content.md:45:décalage
 content/10.content.md:45:déformant
 content/10.content.md:45:d’un
+content/10.content.md:45:exactement
 content/10.content.md:45:fait
 content/10.content.md:45:fragiliser
 content/10.content.md:45:géométrie
 content/10.content.md:45:inégale
+content/10.content.md:45:laquelle
 content/10.content.md:45:l’analyse
 content/10.content.md:45:mais
 content/10.content.md:45:miroir
@@ -1182,6 +1185,7 @@ content/10.content.md:47:lorsque
 content/10.content.md:47:lumière
 content/10.content.md:47:mettent
 content/10.content.md:47:mouvements
+content/10.content.md:47:neurosciences
 content/10.content.md:47:nouvelles
 content/10.content.md:47:ou
 content/10.content.md:47:passionnantes
@@ -1195,6 +1199,7 @@ content/10.content.md:47:semble
 content/10.content.md:47:situent
 content/10.content.md:47:sont
 content/10.content.md:47:spécialisation
+content/10.content.md:47:technologie
 content/10.content.md:47:travaux
 content/10.content.md:47:visuelle
 content/10.content.md:47:visuelles

@@ -42,7 +42,7 @@ autres
 auxquels
 avancées
 avant
-avec
+Avec
 avoir
 avons
 balayage
@@ -68,10 +68,10 @@ cellules
 celui
 centrale
 cependant
-Certaines
+certaines
 certains
 cerveau
-Ces
+ces
 Cet
 cette
 Chaque
@@ -125,7 +125,7 @@ créé
 cérébrales
 cônes
 C’est
-Dans
+dans
 depuis
 derrière
 des
@@ -199,7 +199,7 @@ effet
 efficace
 efficaces
 efficacité
-Elle
+elle
 Elles
 embarqués
 enfin
@@ -212,6 +212,7 @@ environ
 environnement
 errance
 espèces
+exactement
 exemple
 exemples
 explique
@@ -389,7 +390,7 @@ ou
 outil
 outils
 ouvre
-où
+Où
 panoramique
 paradoxe
 paramètres
@@ -422,7 +423,7 @@ plusieurs
 possèdent
 pouce
 Pourquoi
-pourtant
+Pourtant
 poussé
 pouvoir
 praticien
@@ -515,7 +516,7 @@ saccades
 scientifiques
 scène
 secondes
-Selon
+selon
 semble
 semblent
 sensibles
@@ -562,6 +563,7 @@ s’étendre
 tandis
 tant
 tard
+technologie
 tendu
 théorie
 thérapeutiques
@@ -583,7 +585,7 @@ très
 tâche
 téléphones
 tôt
-une
+Une
 uniforme
 uniformément
 Université
