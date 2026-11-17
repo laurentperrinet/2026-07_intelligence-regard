@@ -36,10 +36,11 @@ aussi
 Auteur
 autonomes
 autour
-auxquelles
+autres
+auxquels
 avancées
 avant
-avec
+Avec
 avoir
 avons
 balayage
@@ -68,10 +69,10 @@ cependant
 certaines
 certains
 cerveau
-Ces
+ces
 Cet
 cette
-Chaque
+chaque
 chercheur
 chez
 cible
@@ -93,7 +94,7 @@ complexité
 compliquent
 complément
 comportementales
-Comprendre
+comprendre
 comprimées
 compréhension
 computationnelles
@@ -118,7 +119,6 @@ couleurs
 couplage
 couvre
 coûts
-cruciale
 cérébrales
 cônes
 C’est
@@ -142,6 +142,7 @@ différents
 dirige
 diriger
 disparaissent
+disparaitre
 disparaît
 disponibles
 dispositifs
@@ -179,7 +180,7 @@ détection
 développement
 d’Alzheimer
 d’apprendre
-D’autres
+d’autres
 d’intelligence
 d’intercaler
 d’intérêt
@@ -228,6 +229,7 @@ floues
 flous
 focalisée
 fonctionnement
+forme
 formes
 formée
 fortement
@@ -236,6 +238,7 @@ fovéas
 fragiliser
 frontale
 fuir
+garde
 globalement
 grande
 grandes
@@ -245,7 +248,6 @@ géométrie
 Habituellement
 haut
 Haytham
-hemisphère
 herbes
 Heureusement
 homogène
@@ -255,6 +257,7 @@ humaine
 humaines
 hémichamp
 hémicycle
+hémisphère
 Ibn
 ici
 illisibles
@@ -357,12 +360,12 @@ même
 naturelle
 nerveux
 neurones
-neurosciences
+Neurosciences
 niveau
 nombreuses
 nombreux
 noter
-notre
+Notre
 nouvel
 nouvelle
 nouvelles
@@ -380,7 +383,7 @@ ou
 outil
 outils
 ouvre
-Où
+où
 panoramique
 paradoxe
 paramètres
@@ -401,6 +404,7 @@ permet
 permettent
 Perrinet
 perturbée
+perçue
 peut
 peuvent
 photorécepteurs
@@ -462,6 +466,7 @@ regarde
 regardez
 relativement
 remarquable
+remis
 remodelait
 remplacer
 rendre
@@ -503,6 +508,7 @@ saccades
 scientifiques
 scène
 Selon
+semblant
 semble
 semblent
 sensibles
@@ -545,8 +551,6 @@ sévères
 s’explique
 s’inspirera
 s’étendre
-s’évanonouie
-tache
 tandis
 tant
 tard
@@ -568,6 +572,7 @@ transformées
 travaux
 travers
 très
+tâche
 téléphones
 tôt
 une
@@ -605,7 +610,6 @@ voyons
 vraiment
 vu
 vue
-XIe
 yeux
 échapper
 éclaire
