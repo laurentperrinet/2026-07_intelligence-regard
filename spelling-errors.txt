@@ -9,10 +9,10 @@ afin
 agir
 agit
 ailleurs
-Ainsi
 Aix
 algorithmes
 Alhazen
+allongée
 alors
 altérée
 anticiper
@@ -42,10 +42,11 @@ autres
 auxquels
 avancées
 avant
-Avec
+avec
 avoir
 avons
 balayage
+bande
 besoin
 Bien
 bleu
@@ -73,7 +74,7 @@ certains
 cerveau
 ces
 Cet
-cette
+Cette
 Chaque
 chercheur
 Chez
@@ -96,7 +97,7 @@ complexité
 compliquent
 complément
 comportementales
-Comprendre
+comprendre
 comprimées
 compréhension
 computationnelles
@@ -126,6 +127,7 @@ cérébrales
 cônes
 C’est
 dans
+densité
 depuis
 derrière
 des
@@ -208,7 +210,6 @@ ensuite
 entoure
 entraîner
 entre
-environ
 environnement
 errance
 espèces
@@ -238,7 +239,6 @@ formes
 formée
 fortement
 fovéa
-fovéas
 fragiliser
 Friche
 frontale
@@ -252,16 +252,17 @@ génération
 géométrie
 Habituellement
 haut
+haute
 Haytham
 herbes
 Heureusement
 homogène
+horizontalement
 hors
 humain
 humaine
 humaines
 hémichamp
-hémicycle
 hémisphère
 Ibn
 ici
@@ -308,7 +309,6 @@ l’analyse
 l’AP
 L’atteinte
 l’autre
-l’axe
 l’endroit
 l’ensemble
 l’espace
@@ -326,7 +326,7 @@ l’une
 l’usage
 l’âge
 l’épauler
-l’œil
+L’œil
 macula
 maculaire
 Mairot
@@ -353,6 +353,7 @@ modèle
 modèles
 modélisation
 moins
+moitié
 monde
 montre
 mouvement
@@ -367,7 +368,7 @@ naturel
 naturelle
 nerveux
 neurones
-neurosciences
+Neurosciences
 niveau
 nombreuses
 nombreux
@@ -404,6 +405,7 @@ parvient
 passionnantes
 passivement
 pathologies
+paume
 pensons
 percevoir
 percevons
@@ -421,9 +423,8 @@ plasticien
 pleinement
 plusieurs
 possèdent
-pouce
-Pourquoi
-Pourtant
+pourquoi
+pourtant
 poussé
 pouvoir
 praticien
@@ -445,6 +446,7 @@ propres
 propriété
 propriétés
 prothèses
+près
 précise
 précision
 précocement
@@ -454,10 +456,9 @@ périphérique
 Quand
 quelques
 qui
-quoi
+Quoi
 quotidienne
 qu’elle
-qu’en
 qu’il
 qu’on
 qu’une
