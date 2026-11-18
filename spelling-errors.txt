@@ -5,7 +5,7 @@ affectent
 aggravent
 agissent
 ailleurs
-ainsi
+Ainsi
 Aix
 algorithmes
 Alhazen
@@ -54,6 +54,7 @@ capacité
 capacités
 capte
 captée
+cas
 casque
 catégories
 cela
@@ -62,16 +63,16 @@ cellules
 celui
 centrale
 centralis
-certaines
+Certaines
 certains
 cerveau
-Ces
-Cette
+ces
+cette
 chaque
 cherche
 chercher
 chercheur
-chez
+Chez
 cible
 classer
 clinique
@@ -125,6 +126,7 @@ diagnostiquer
 difficile
 difficultés
 différentes
+dilatée
 directement
 diriger
 disparaissent
@@ -161,7 +163,7 @@ détecter
 détruit
 d’Alzheimer
 d’analyser
-d’autres
+D’autres
 d’IA
 d’intelligence
 d’intérêt
@@ -187,7 +189,7 @@ explorateur
 exposent
 faciales
 faible
-Fait
+fait
 familier
 faucon
 faut
@@ -206,6 +208,7 @@ formée
 fortement
 fovéa
 fovéas
+fragmenté
 Friche
 frontale
 grande
@@ -220,7 +223,7 @@ hémichamp
 Ibn
 ici
 idéal
-Ils
+ils
 imitant
 indice
 indissociables
@@ -342,7 +345,7 @@ Neurosciences
 nombreuses
 nombreux
 noter
-notre
+Notre
 nouvelles
 novatrices
 nôtre
@@ -360,14 +363,13 @@ ou
 outils
 ouverte
 Ouvrez
-Où
+où
 paraît
 paraître
 parce
 partie
 partielles
 partir
-parvient
 passivement
 pathologies
 percevez
@@ -377,7 +379,6 @@ permettent
 permettre
 Perrinet
 perçu
-perçue
 peuplée
 peut
 peuvent
@@ -390,7 +391,7 @@ possèdent
 postérieure
 Pourquoi
 poursuite
-pourtant
+Pourtant
 poussé
 praticien
 première
@@ -424,6 +425,7 @@ pénètre
 périphérie
 périphérique
 Quand
+quel
 quelques
 qui
 Quoi
@@ -435,7 +437,6 @@ rappelle
 recherches
 recoins
 reconnaître
-reconstruire
 reflète
 regarde
 regardent
@@ -457,6 +458,7 @@ retrouve
 retrouvons
 revanche
 Rey
+reçoit
 riche
 Rien
 réagir
@@ -506,7 +508,7 @@ spécialistes
 spécifiquement
 spécifiques
 suivi
-sur
+Sur
 surprenante
 surtout
 surveille
@@ -547,6 +549,7 @@ Université
 utile
 utilisé
 vaisseaux
+variantes
 variées
 vers
 vertébrés
@@ -563,7 +566,7 @@ vite
 Voici
 voient
 voies
-voir
+Voir
 voire
 voisines
 voisins
