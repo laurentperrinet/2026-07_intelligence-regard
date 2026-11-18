@@ -183,7 +183,7 @@ content/10.content.md:10:rétine
 content/10.content.md:10:voit
 content/10.content.md:10:vraiment
 content/10.content.md:12:Alhazen
-content/10.content.md:12:C'est
+content/10.content.md:12:C’est
 content/10.content.md:12:Dès
 content/10.content.md:12:Haytham
 content/10.content.md:12:Ibn
@@ -284,7 +284,6 @@ content/10.content.md:14:couleurs
 content/10.content.md:14:couleurs
 content/10.content.md:14:couvre
 content/10.content.md:14:cônes
-content/10.content.md:14:d'un
 content/10.content.md:14:dans
 content/10.content.md:14:des
 content/10.content.md:14:des
@@ -296,6 +295,7 @@ content/10.content.md:14:départ
 content/10.content.md:14:déplacent
 content/10.content.md:14:détails
 content/10.content.md:14:d’autres
+content/10.content.md:14:d’un
 content/10.content.md:14:efficaces
 content/10.content.md:14:elle
 content/10.content.md:14:faible
@@ -773,7 +773,7 @@ content/10.content.md:32:construisons
 content/10.content.md:32:dans
 content/10.content.md:32:effet
 content/10.content.md:32:fois
-content/10.content.md:32:l'ensemble
+content/10.content.md:32:l’ensemble
 content/10.content.md:32:mesurer
 content/10.content.md:32:modifions
 content/10.content.md:32:modèle
