@@ -1,0 +1,19 @@
+# Pandoc --defaults shared between Manubot output formats, for local builds
+# on Apple Silicon (see build/build-local.sh).
+# Same as build/pandoc/defaults/common.yaml, except that pandoc-crossref
+# replaces pandoc-fignos/eqnos/tablenos: those filters only accept pandoc 2.x,
+# which has no native arm64 macOS binary. pandoc-crossref reads the same
+# {#fig:label} / @fig:label syntax and is built against the current pandoc.
+# The other format defaults (html.yaml, pdf-weasyprint.yaml...) are symlinks
+# to build/pandoc/defaults, so they stay in sync with the CI build.
+from: markdown
+input-file: output/manuscript.md
+filters:
+- pandoc-crossref
+- pandoc-manubot-cite
+- citeproc
+wrap: preserve
+metadata:
+  csl: build/assets/style.csl
+  link-citations: true
+metadata-file: build/pandoc-local/crossref.yaml

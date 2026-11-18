@@ -1,0 +1,9 @@
+# pandoc-crossref settings for local builds (loaded via metadata-file in
+# build/pandoc-local/defaults/common.yaml, so that values are parsed as
+# Markdown: crossref needs $$i$$ as a Math element, not a plain string).
+# Mimic pandoc-xnos defaults used in CI: @fig:label renders as the bare,
+# linked number, since the text already reads "Figure @fig:label".
+linkReferences: true
+figPrefixTemplate: "$$i$$"
+tblPrefixTemplate: "$$i$$"
+eqnPrefixTemplate: "$$i$$"
