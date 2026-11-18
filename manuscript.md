@@ -25,8 +25,8 @@ header-includes: |
   <meta name="dc.date" content="2026-11-17" />
   <meta name="citation_publication_date" content="2026-11-17" />
   <meta property="article:published_time" content="2026-11-17" />
-  <meta name="dc.modified" content="2026-11-18T09:47:29+00:00" />
-  <meta property="article:modified_time" content="2026-11-18T09:47:29+00:00" />
+  <meta name="dc.modified" content="2026-11-18T10:52:29+00:00" />
+  <meta property="article:modified_time" content="2026-11-18T10:52:29+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/79ce50401f7e4364de61af274c6b66f72ff9da94/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/79ce50401f7e4364de61af274c6b66f72ff9da94/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/79ce50401f7e4364de61af274c6b66f72ff9da94/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ba7ee1b85a4f4d3c80f0eb5d0b988007f281fdb8/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ba7ee1b85a4f4d3c80f0eb5d0b988007f281fdb8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ba7ee1b85a4f4d3c80f0eb5d0b988007f281fdb8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/79ce50401f7e4364de61af274c6b66f72ff9da94/))
+([permalink](https://laurentperrinet.github.io/2026-07_intelligence-regard/v/ba7ee1b85a4f4d3c80f0eb5d0b988007f281fdb8/))
 was automatically generated
-from [laurentperrinet/2026-07_intelligence-regard@79ce504](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/79ce50401f7e4364de61af274c6b66f72ff9da94)
+from [laurentperrinet/2026-07_intelligence-regard@ba7ee1b](https://github.com/laurentperrinet/2026-07_intelligence-regard/tree/ba7ee1b85a4f4d3c80f0eb5d0b988007f281fdb8)
 on November 18, 2026.
 </em></small>
 
@@ -106,7 +106,7 @@ Published: November 17, 2026
 
 *Ouvrez les yeux : le monde semble s'étendre devant vous, net et coloré jusque dans ses moindres recoins. Pourtant, l’image captée par la rétine n’est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comprendre ce processus permet de mieux  diagnostiquer certaines pathologies visuelles et inspire des algorithmes d’intelligence artificielle plus sobres énergétiquement.*
 
-Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intuitivement, nous pensons que notre vision reflète fidèlement le monde *tel qu’il est*. En réalité, l’image formée sur la rétine est loin d’être uniforme ! Au centre, la précision est maximale. En périphérie, la vision devient floue et moins sensible aux couleurs. Comment le cerveau parvient-il à reconstruire la scène cohérente et apparemment uniforme que nous percevons ?
+Et si votre cerveau remodelait l’espace qui vous entoure à votre insu ? Intuitivement, vous pensez sûrement que notre vision reflète fidèlement le monde *tel qu’il est*. En réalité, l’image formée sur la rétine est loin d’être uniforme ! Au centre, la précision est maximale. En périphérie, la vision devient floue et moins sensible aux couleurs. Comment le cerveau parvient-il à reconstruire la scène cohérente et apparemment uniforme que nous percevons ?
 
 Comprendre ce mécanisme est un enjeu majeur. Il éclaire sur le fonctionnement de la vision. Il aide aussi à mieux diagnostiquer certaines maladies oculaires. Il inspire enfin des systèmes d’intelligence artificielle plus sobres en énergie. En tant que chercheur en neurosciences computationnelles, j’étudie comment le cerveau assemble des informations visuelles partielles pour produire une perception cohérente. Voici ce que les recherches récentes révèlent sur le rôle décisif de l’organisation spatiale de la rétine.
 

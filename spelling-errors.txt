@@ -68,7 +68,7 @@ cellules
 celui
 centrale
 cependant
-Certaines
+certaines
 certains
 cerveau
 ces
@@ -122,7 +122,7 @@ créé
 cérébrales
 cônes
 C’est
-Dans
+dans
 densité
 depuis
 derrière
@@ -157,7 +157,7 @@ donnée
 données
 dont
 droite
-dès
+Dès
 décisif
 décrite
 dédiée
@@ -180,7 +180,7 @@ développement
 d’accélérer
 d’Alzheimer
 d’apprendre
-d’autres
+D’autres
 d’intelligence
 d’intercaler
 d’intérêt
@@ -195,7 +195,7 @@ effet
 efficace
 efficaces
 efficacité
-elle
+Elle
 Elles
 embarqués
 enfin
@@ -365,7 +365,7 @@ niveau
 nombreuses
 nombreux
 noter
-Notre
+notre
 nouvel
 nouvelle
 nouvelles
@@ -398,7 +398,7 @@ passionnantes
 passivement
 pathologies
 paume
-pensons
+pensez
 percevoir
 percevons
 permet
@@ -551,6 +551,7 @@ système
 systèmes
 sécurité
 sévères
+sûrement
 s’en
 s’explique
 s’étendre

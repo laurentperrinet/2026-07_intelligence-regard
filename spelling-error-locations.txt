@@ -59,7 +59,7 @@ content/10.content.md:3:moins
 content/10.content.md:3:monde
 content/10.content.md:3:notre
 content/10.content.md:3:parvient
-content/10.content.md:3:pensons
+content/10.content.md:3:pensez
 content/10.content.md:3:percevons
 content/10.content.md:3:précision
 content/10.content.md:3:périphérie
@@ -72,10 +72,12 @@ content/10.content.md:3:réalité
 content/10.content.md:3:rétine
 content/10.content.md:3:scène
 content/10.content.md:3:sur
+content/10.content.md:3:sûrement
 content/10.content.md:3:uniforme
 content/10.content.md:3:uniforme
 content/10.content.md:3:votre
 content/10.content.md:3:votre
+content/10.content.md:3:vous
 content/10.content.md:3:vous
 content/10.content.md:3:être
 content/10.content.md:5:Comprendre
