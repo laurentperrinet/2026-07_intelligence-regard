@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas",
+    "title": "L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas",
     "keywords": [
       "perception visuelle",
       "rétinotopie",
@@ -14,7 +14,7 @@
     "author-meta": [
       "Laurent U Perrinet"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta name=\"citation_title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta property=\"og:title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta property=\"twitter:title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta name=\"dc.date\" content=\"2026-11-18\" />\n<meta name=\"citation_publication_date\" content=\"2026-11-18\" />\n<meta property=\"article:published_time\" content=\"2026-11-18\" />\n<meta name=\"dc.modified\" content=\"2026-11-18T14:42:21+00:00\" />\n<meta property=\"article:modified_time\" content=\"2026-11-18T14:42:21+00:00\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/67f012a7e4a578447f249a910b9ec4449d50928a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/67f012a7e4a578447f249a910b9ec4449d50928a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/67f012a7e4a578447f249a910b9ec4449d50928a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta name=\"citation_title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta property=\"og:title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta property=\"twitter:title\" content=\"L’intelligence du regard : comment le cerveau complète ce que la rétine ne voit pas\" />\n<meta name=\"dc.date\" content=\"2026-11-18\" />\n<meta name=\"citation_publication_date\" content=\"2026-11-18\" />\n<meta property=\"article:published_time\" content=\"2026-11-18\" />\n<meta name=\"dc.modified\" content=\"2026-11-18T14:46:49+00:00\" />\n<meta property=\"article:modified_time\" content=\"2026-11-18T14:46:49+00:00\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2026-07_intelligence-regard/v/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -26,7 +26,7 @@
   "manubot": {
     "date": "2026-11-18",
     "date_long": "November 18, 2026",
-    "generated": "2026-11-18T14:42:21+00:00",
+    "generated": "2026-11-18T14:46:49+00:00",
     "generated_date_long": "November 18, 2026",
     "randomize_author_order": false,
     "authors": [
@@ -57,19 +57,19 @@
       "repo_slug": "laurentperrinet/2026-07_intelligence-regard",
       "repo_owner": "laurentperrinet",
       "repo_name": "2026-07_intelligence-regard",
-      "commit": "67f012a7e4a578447f249a910b9ec4449d50928a",
-      "triggering_commit": "67f012a7e4a578447f249a910b9ec4449d50928a",
-      "build_url": "https://github.com/laurentperrinet/2026-07_intelligence-regard/commit/67f012a7e4a578447f249a910b9ec4449d50928a/checks",
-      "job_url": "https://github.com/laurentperrinet/2026-07_intelligence-regard/actions/runs/44326952136"
+      "commit": "279a1a25a0c4eb8fe245a8e16613cf2f7a524b64",
+      "triggering_commit": "279a1a25a0c4eb8fe245a8e16613cf2f7a524b64",
+      "build_url": "https://github.com/laurentperrinet/2026-07_intelligence-regard/commit/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/checks",
+      "job_url": "https://github.com/laurentperrinet/2026-07_intelligence-regard/actions/runs/44327763543"
     },
     "html_url": "https://laurentperrinet.github.io/2026-07_intelligence-regard/",
     "pdf_url": "https://laurentperrinet.github.io/2026-07_intelligence-regard/manuscript.pdf",
-    "html_url_versioned": "https://laurentperrinet.github.io/2026-07_intelligence-regard/v/67f012a7e4a578447f249a910b9ec4449d50928a/",
-    "pdf_url_versioned": "https://laurentperrinet.github.io/2026-07_intelligence-regard/v/67f012a7e4a578447f249a910b9ec4449d50928a/manuscript.pdf",
+    "html_url_versioned": "https://laurentperrinet.github.io/2026-07_intelligence-regard/v/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/",
+    "pdf_url_versioned": "https://laurentperrinet.github.io/2026-07_intelligence-regard/v/279a1a25a0c4eb8fe245a8e16613cf2f7a524b64/manuscript.pdf",
     "manubot_version": "0.6.1",
     "rootstock_commit": "f44f9bbe35441a8acd51a5898e6e739acaf54c1c",
     "manuscript_stats": {
-      "word_count": 2207
+      "word_count": 2202
     }
   },
   "subject": "neurosciences, vision, rétine, perception, santé visuelle, intelligence artificielle",
@@ -79,5 +79,5 @@
   "thanks": "L’auteur voudrait remercier les différents collaborateurs qui ont pu participer de près ou de loin à ce projet ainsi que les organisateurs du [Forum des Sciences Cognitives](https://laurentperrinet.github.io/talk/2026-04-11-intelligence-du-regard/) qui m’ont donné l’idée de ce projet. Il remercie également les relecteurs pour leurs commentaires et suggestions qui ont permis d’améliorer la qualité de l’article.",
   "website": "https://laurentperrinet.github.io/2026-07_intelligence-regard",
   "source": "https://github.com/laurentperrinet/2026-07_intelligence-regard",
-  "summary": "Ouvrez les yeux : le monde semble s’étendre devant vous, net et coloré jusque dans ses moindres recoins. Pourtant, l’image captée par la rétine n’est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comprendre ce décalage aide à mieux diagnostiquer certaines pathologies visuelles et inspire des algorithmes d’intelligence artificielle plus sobres énergétiquement."
+  "summary": "Ouvrez les yeux : le monde semble s’étendre devant vous, net et coloré jusque dans ses moindres recoins. Pourtant, l’image captée par la rétine n’est pas uniforme : ultra-précise au centre, plus floue et moins riche en couleurs en périphérie. Comment le cerveau comble-t-il ces lacunes ? Le comprendre aide à mieux diagnostiquer certaines pathologies visuelles et inspire des algorithmes d’intelligence artificielle plus sobres."
 }
