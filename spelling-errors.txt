@@ -71,10 +71,10 @@ cependant
 certaines
 certains
 cerveau
-ces
+Ces
 Cet
 Cette
-chaque
+Chaque
 chercheur
 Chez
 cible
@@ -122,9 +122,9 @@ créé
 cérébrales
 cônes
 C’est
-dans
+Dans
 densité
-depuis
+Depuis
 derrière
 des
 deux
@@ -195,7 +195,7 @@ effet
 efficace
 efficaces
 efficacité
-Elle
+elle
 Elles
 embarqués
 enfin
@@ -360,7 +360,7 @@ naturel
 naturelle
 nerveux
 neurones
-Neurosciences
+neurosciences
 niveau
 nombreuses
 nombreux
@@ -414,8 +414,8 @@ plasticien
 pleinement
 plusieurs
 possèdent
-pourquoi
-Pourtant
+Pourquoi
+pourtant
 poussé
 pouvoir
 praticien
@@ -510,7 +510,7 @@ saccades
 scientifiques
 scène
 secondes
-selon
+Selon
 semble
 semblent
 sensibles
@@ -579,7 +579,7 @@ travers
 très
 tâche
 téléphones
-une
+Une
 uniforme
 Université
 utile
