@@ -38,10 +38,9 @@ Auteur
 autonomes
 autour
 autres
-auxquels
 avancées
 avant
-Avec
+avec
 avoir
 avons
 balayage
@@ -62,6 +61,7 @@ captée
 caractéristiques
 casques
 catégories
+ceci
 cela
 celle
 cellules
@@ -76,9 +76,8 @@ Cet
 Cette
 chaque
 chercheur
-chez
+Chez
 cible
-cinéma
 classer
 classiques
 clinique
@@ -123,9 +122,9 @@ créé
 cérébrales
 cônes
 C’est
-dans
+Dans
 densité
-Depuis
+depuis
 derrière
 des
 deux
@@ -173,7 +172,6 @@ délétère
 dépend
 déplacement
 déplacent
-déploie
 détaillé
 détails
 détecter
@@ -191,14 +189,13 @@ d’ouvrir
 d’un
 d’une
 d’éclairer
-d’écran
 d’étudier
 d’être
 effet
 efficace
 efficaces
 efficacité
-Elle
+elle
 Elles
 embarqués
 enfin
@@ -238,7 +235,6 @@ fortement
 fovéa
 Friche
 frontale
-fuir
 garde
 globalement
 grande
@@ -246,7 +242,6 @@ grandes
 gravement
 génération
 géométrie
-Habituellement
 haut
 haute
 Haytham
@@ -277,6 +272,7 @@ Intuitivement
 involontaires
 inégale
 jour
+jusque
 jusqu’aux
 justifiant
 j’étudie
@@ -299,7 +295,6 @@ localiser
 lorsque
 lui
 lumière
-Là
 Léonard
 léopard
 l’analyse
@@ -349,6 +344,7 @@ modifions
 modèle
 modèles
 modélisation
+moindres
 moins
 moitié
 monde
@@ -387,8 +383,8 @@ ou
 outil
 outils
 ouvre
+Ouvrez
 où
-panoramique
 paradoxe
 paramètres
 paraît
@@ -419,7 +415,7 @@ pleinement
 plusieurs
 possèdent
 pourquoi
-pourtant
+Pourtant
 poussé
 pouvoir
 praticien
@@ -461,6 +457,7 @@ rapides
 rapprochent
 recentrer
 recherches
+recoins
 reconnaître
 reconstruire
 reflète
@@ -531,7 +528,6 @@ siècles
 sobres
 sociales
 sont
-sorte
 souligne
 souris
 soutenir
@@ -582,10 +578,8 @@ travers
 très
 tâche
 téléphones
-tôt
-Une
+une
 uniforme
-uniformément
 Université
 utile
 utilisons
@@ -605,7 +599,7 @@ Voici
 voie
 voient
 voies
-voir
+Voir
 voire
 voisines
 voisins
