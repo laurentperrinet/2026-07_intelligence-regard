@@ -63,6 +63,18 @@ manubot webpage \
   --checkout=gh-pages \
   --version="$COMMIT"
 
+# GitHub Pages serves nothing at the site root unless index.html exists there
+cat > webpage/index.html <<'EOF'
+<!DOCTYPE html>
+<html lang="fr">
+<meta charset="utf-8">
+<title>Redirecting to the latest manuscript version</title>
+<meta http-equiv="refresh" content="0; url=v/latest/">
+<link rel="canonical" href="v/latest/">
+<p><a href="v/latest/">Latest manuscript version</a></p>
+</html>
+EOF
+
 # Commit message
 MESSAGE="\
 $(git log --max-count=1 --format='%s')
